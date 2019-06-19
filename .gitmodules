@@ -1,0 +1,3 @@
+[submodule "SD3IO"]
+	path = SD3IO
+	url = https://github.com/ArkadiNovikov/SD3IO.git
