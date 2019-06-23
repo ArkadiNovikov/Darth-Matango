@@ -34,7 +34,7 @@
 		</StackPanel>
 		<TabControl Grid.Row="2">
 			<TabItem Header="汎">
-				<Grid>
+				<Grid Margin="5">
 					<Grid.ColumnDefinitions>
 						<ColumnDefinition Width="Auto" />
 						<ColumnDefinition Width="Auto" />
