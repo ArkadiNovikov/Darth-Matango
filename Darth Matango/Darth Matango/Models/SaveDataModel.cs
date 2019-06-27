@@ -2,6 +2,7 @@
 using SD3IO;
 using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.ComponentModel;
 using System.Text;
 
@@ -16,24 +17,28 @@ namespace Darth_Matango.Models
 
     }
 
-    public class SaveSlot
+    public class SaveSlot : INotifyPropertyChanged
     {
-        public Character[] Characters { get; set; } = new Character[3];
+        public event PropertyChangedEventHandler PropertyChanged;
+        public ObservableCollection<Character> Characters { get; set; } = new ObservableCollection<Character>();
         public ItemStorage Item { get; set; } = new ItemStorage();
         public uint Currency { get; set; }
 
     }
 
-    public class Character
+    public class Character : INotifyPropertyChanged
     {
-        public byte[] Name { get; set; } = new byte[6];
+        public event PropertyChangedEventHandler PropertyChanged;
+        public ObservableCollection<byte> Name { get; set; } = new ObservableCollection<byte>();
         public CharacterStatus Status { get; set; } = new CharacterStatus();
         public CharacterEquip Equip { get; set; } = new CharacterEquip();
-        public Skill[] Skills { get; set; } = new Skill[12];
+        public ObservableCollection<Skill> Skills { get; set; } = new ObservableCollection<Skill>();
+
     }
 
-    public class CharacterStatus
+    public class CharacterStatus : INotifyPropertyChanged
     {
+        public event PropertyChangedEventHandler PropertyChanged;
         public uint Level { get; set; }
         public uint Exp { get; set; }
         public uint CurrentHP { get; set; }
@@ -46,34 +51,43 @@ namespace Darth_Matango.Models
         public uint Int { get; set; }
         public uint Spr { get; set; }
         public uint Luk { get; set; }
+
     }
 
-    public class CharacterEquip
+    public class CharacterEquip : INotifyPropertyChanged
     {
+        public event PropertyChangedEventHandler PropertyChanged;
         public uint Weapon { get; set; }
         public uint Helm { get; set; }
         public uint Armor { get; set; }
         public uint Ring { get; set; }
         public uint Shield { get; set; }
+
     }
 
-    public class Skill
+    public class Skill : INotifyPropertyChanged
     {
+        public event PropertyChangedEventHandler PropertyChanged;
         public uint SkillKind { get; set; }
         public uint Target { get; set; }
+
     }
 
 
 
-    public class ItemStorage
+    public class ItemStorage : INotifyPropertyChanged
     {
-        public Item[] Inventory { get; set; } = new Item[10];
-        public Item[] Stash { get; set; } = new Item[254];
+        public event PropertyChangedEventHandler PropertyChanged;
+        public ObservableCollection<Item> Inventory { get; set; } = new ObservableCollection<Item>();
+        public ObservableCollection<Item> Stash { get; set; } = new ObservableCollection<Item>();
+
     }
 
-    public class Item
+    public class Item : INotifyPropertyChanged
     {
+        public event PropertyChangedEventHandler PropertyChanged;
         public uint ItemKind { get;set; }
         public uint Count { get; set; }
+
     }
 }
