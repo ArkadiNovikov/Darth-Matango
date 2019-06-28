@@ -20,19 +20,19 @@
 		<Menu Grid.Row="0">
 			<MenuItem Header="ファイル">
 				<MenuItem Header="開く" />
-				<MenuItem Header="上書き保存" />
-				<MenuItem Header="名前を付けて保存" />
+				<MenuItem Header="上書き保存" IsEnabled="{Binding Loaded.Value, Mode=OneWay}" />
+				<MenuItem Header="名前を付けて保存" IsEnabled="{Binding Loaded.Value, Mode=OneWay}" />
 			</MenuItem>
 		</Menu>
 		<StackPanel Grid.Row="1" Orientation="Horizontal">
 			<TextBlock>セーブファイル</TextBlock>
-			<ComboBox Width="100">
+			<ComboBox Width="100" IsEnabled="{Binding Loaded.Value, Mode=OneWay}">
 				<ComboBoxItem>
 					<TextBlock Text="hoge" />
 				</ComboBoxItem>
 			</ComboBox>
 		</StackPanel>
-		<TabControl Grid.Row="2">
+		<TabControl Grid.Row="2" IsEnabled="{Binding Loaded.Value, Mode=OneWay}">
 			<TabItem Header="汎">
 				<Grid Margin="5">
 					<Grid.ColumnDefinitions>
