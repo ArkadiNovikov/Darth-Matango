@@ -86,7 +86,7 @@ namespace Darth_Matango.Models
     public class Item : INotifyPropertyChanged
     {
         public event PropertyChangedEventHandler PropertyChanged;
-        public uint ItemKind { get;set; }
+        public uint ItemKind { get; set; }
         public uint Count { get; set; }
 
     }
