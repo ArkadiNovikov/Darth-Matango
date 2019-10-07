@@ -6,6 +6,8 @@
 	xmlns:local="clr-namespace:Darth_Matango"
 	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
 	xmlns:prism="http://prismlibrary.com/"
+	xmlns:syncfusion="http://schemas.syncfusion.com/wpf"
+	xmlns:xctk="clr-namespace:Xceed.Wpf.Toolkit;assembly=Xceed.Wpf.Toolkit"
 	Title="MainWindow"
 	Width="800"
 	Height="450"
@@ -19,17 +21,25 @@
 		</Grid.RowDefinitions>
 		<Menu Grid.Row="0">
 			<MenuItem Header="ファイル">
-				<MenuItem Header="開く" />
+				<MenuItem Command="{Binding FileOpenCommand}" Header="開く" />
 				<MenuItem Header="上書き保存" IsEnabled="{Binding Loaded.Value, Mode=OneWay}" />
 				<MenuItem Header="名前を付けて保存" IsEnabled="{Binding Loaded.Value, Mode=OneWay}" />
 			</MenuItem>
 		</Menu>
-		<StackPanel Grid.Row="1" Orientation="Horizontal">
+		<StackPanel
+			Grid.Row="1"
+			IsEnabled="{Binding Loaded.Value, Mode=OneWay}"
+			Orientation="Horizontal">
 			<TextBlock>セーブファイル</TextBlock>
-			<ComboBox Width="100" IsEnabled="{Binding Loaded.Value, Mode=OneWay}">
-				<ComboBoxItem>
-					<TextBlock Text="hoge" />
-				</ComboBoxItem>
+			<ComboBox
+				Width="100"
+				ItemsSource="{Binding SlotList, Mode=OneWay}"
+				SelectedIndex="{Binding SlotIndex.Value, Mode=TwoWay}">
+				<ComboBox.ItemTemplate>
+					<DataTemplate>
+						<TextBlock Text="{Binding IsExists}" />
+					</DataTemplate>
+				</ComboBox.ItemTemplate>
 			</ComboBox>
 		</StackPanel>
 		<TabControl Grid.Row="2" IsEnabled="{Binding Loaded.Value, Mode=OneWay}">
@@ -64,7 +74,7 @@
 						Grid.Row="1"
 						Grid.Column="1"
 						Width="100"
-						Text="hoge" />
+						Text="{Binding Currency.Value, Mode=TwoWay}" />
 					<TextBlock
 						Grid.Row="2"
 						Grid.Column="0"

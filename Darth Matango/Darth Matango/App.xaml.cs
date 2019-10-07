@@ -16,6 +16,13 @@ namespace Darth_Matango
     /// </summary>
     public partial class App : PrismApplication
     {
+        protected override void OnInitialized()
+        {
+//    Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("MTQyMzQwQDMxMzcyZTMyMmUzMG9EaDhjVlJYdmhUUmtGQkJ2NTN5cVEwYTNjY0VDMGRVOUxnVjBLRS9vMlE9");
+
+            base.OnInitialized();
+        }
+
         protected override Window CreateShell()
         {
             return Container.Resolve<MainWindow>();
@@ -23,7 +30,7 @@ namespace Darth_Matango
 
         protected override void RegisterTypes(IContainerRegistry containerRegistry)
         {
-            
+            containerRegistry.RegisterInstance<Models.SaveDataRoot>(new Models.SaveDataRoot());
         }
     }
 }
