@@ -25,8 +25,8 @@ namespace DarthMatango.Models
         public static LocationsRootObject GenerateRootObject()
         {
             var path = new Uri("Data/locations.json", UriKind.Relative);
-            using var res = new StreamReader(Application.GetResourceStream(path).Stream, Encoding.UTF8);
-            var jsonString = res.ReadToEnd();
+            using var sr = new StreamReader(Application.GetResourceStream(path).Stream, Encoding.UTF8);
+            var jsonString = sr.ReadToEnd();
             var ret = System.Text.Json.JsonSerializer.Deserialize<LocationsRootObject>(jsonString);
             return ret;
         }
