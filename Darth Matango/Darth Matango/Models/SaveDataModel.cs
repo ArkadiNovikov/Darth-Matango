@@ -7,7 +7,7 @@ using System.ComponentModel;
 using System.Text;
 using System.Linq;
 
-namespace Darth_Matango.Models
+namespace DarthMatango.Models
 {
     [AddINotifyPropertyChangedInterface]
     public class SaveDataRoot : INotifyPropertyChanged

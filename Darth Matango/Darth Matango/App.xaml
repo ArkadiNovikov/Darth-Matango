@@ -1,8 +1,8 @@
 ﻿<prism:PrismApplication
-	x:Class="Darth_Matango.App"
+	x:Class="DarthMatango.App"
 	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
 	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-	xmlns:local="clr-namespace:Darth_Matango"
+	xmlns:local="clr-namespace:DarthMatango"
 	xmlns:prism="http://prismlibrary.com/">
 	<Application.Resources>
 		<ResourceDictionary>

@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Darth_Matango.Views
+namespace DarthMatango.Views
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

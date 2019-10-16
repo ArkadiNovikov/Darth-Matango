@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Reactive.Disposables;
 using System.Text;
 
-namespace Darth_Matango.ViewModels
+namespace DarthMatango.ViewModels
 {
     [DoNotNotify]
     public abstract class ViewModelBase : BindableBase, IDisposable

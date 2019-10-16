@@ -10,7 +10,7 @@ using System.Xml;
 using Utf8Json;
 using System.Runtime.Serialization;
 
-namespace Darth_Matango.Models
+namespace DarthMatango.Models
 {
     public class Location
     {

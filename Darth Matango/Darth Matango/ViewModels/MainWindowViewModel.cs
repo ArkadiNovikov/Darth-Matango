@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reactive;
 using Reactive.Bindings;
-using Darth_Matango.Models;
+using DarthMatango.Models;
 using Reactive.Bindings.Extensions;
 using System.Threading.Tasks;
 using Microsoft.Win32;
@@ -14,7 +14,7 @@ using System.IO;
 using System.Windows;
 using System.Text;
 
-namespace Darth_Matango.ViewModels
+namespace DarthMatango.ViewModels
 {
 
     [DoNotNotify]
