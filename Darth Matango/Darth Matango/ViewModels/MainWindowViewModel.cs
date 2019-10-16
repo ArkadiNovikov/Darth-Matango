@@ -10,6 +10,9 @@ using Darth_Matango.Models;
 using Reactive.Bindings.Extensions;
 using System.Threading.Tasks;
 using Microsoft.Win32;
+using System.IO;
+using System.Windows;
+using System.Text;
 
 namespace Darth_Matango.ViewModels
 {
@@ -29,13 +32,17 @@ namespace Darth_Matango.ViewModels
             this._saveData = sdr;
 
             SlotIndex = new ReactiveProperty<int>();
-            Loaded = sdr.ObserveProperty(x => x.IsLoaded).ToReadOnlyReactiveProperty();
-            Currency = sdr.ObserveProperty(x => (int)x.SaveData[0].Currency).ToReactiveProperty().AddTo(this.CmpDisposable);
-            SlotList = sdr.SaveData.ToReadOnlyReactiveCollection().AddTo(this.CmpDisposable);
+            Loaded = _saveData.ObserveProperty(x => x.IsLoaded).ToReadOnlyReactiveProperty();
+            Currency = _saveData.ObserveProperty(x => (int)x.SaveData[0].Currency).ToReactiveProperty().AddTo(this.CmpDisposable);
+            SlotList = _saveData.SaveData.ToReadOnlyReactiveCollection().AddTo(this.CmpDisposable);
             FileOpenCommand = new ReactiveCommand();
             FileOpenCommand.Subscribe(x => FileOpen()).AddTo(this.CmpDisposable);
 
             //_saveData.Load(@"Q:\sd3save_editor\Seiken3.srm");
+
+            var hoge = LocationsRootObject.GenerateRootObject();
+            //var xmlRet = Locations.GenerateLocations();
+
         }
 
         public void FileOpen()
