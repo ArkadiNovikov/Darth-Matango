@@ -1,0 +1,4455 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<locations>
+  <location>
+    <id>1</id>
+    <name>デバッグルーム 1</name>
+  </location>
+  <location>
+    <id>2</id>
+    <name>デバッグルーム - Miyagawa</name>
+  </location>
+  <location>
+    <id>3</id>
+    <name>未使用</name>
+  </location>
+  <location>
+    <id>4</id>
+    <name>大地の裂け目 - ボス部屋</name>
+  </location>
+  <location>
+    <id>5</id>
+    <name>幽霊船 - deck</name>
+  </location>
+  <location>
+    <id>6</id>
+    <name>風の王国ローラント - roofs</name>
+  </location>
+  <location>
+    <id>7</id>
+    <name>___HOUSE 屋内</name>
+  </location>
+  <location>
+    <id>8</id>
+    <name>エンディング - Mana Tree backdrop</name>
+  </location>
+  <location>
+    <id>9</id>
+    <name>___BLANK - prologue</name>
+  </location>
+  <location>
+    <id>10</id>
+    <name>___BLANK</name>
+  </location>
+  <location>
+    <id>11</id>
+    <name>湖畔の村アストリア</name>
+  </location>
+  <location>
+    <id>12</id>
+    <name>光の神殿 - エントランス</name>
+  </location>
+  <location>
+    <id>13</id>
+    <name>エンディング - cloud panorama</name>
+  </location>
+  <location>
+    <id>14</id>
+    <name>エンディング - 月明りの森 backdrop</name>
+  </location>
+  <location>
+    <id>15</id>
+    <name>エンディング - ラビの森 flower bed</name>
+  </location>
+  <location>
+    <id>16</id>
+    <name>湖畔の村アストリア</name>
+  </location>
+  <location>
+    <id>17</id>
+    <name>零下の雪原</name>
+  </location>
+  <location>
+    <id>18</id>
+    <name>ラビの森</name>
+  </location>
+  <location>
+    <id>19</id>
+    <name>ラビの森</name>
+  </location>
+  <location>
+    <id>20</id>
+    <name>ラビの森</name>
+  </location>
+  <location>
+    <id>21</id>
+    <name>ラビの森</name>
+  </location>
+  <location>
+    <id>22</id>
+    <name>ラビの森</name>
+  </location>
+  <location>
+    <id>23</id>
+    <name>ラビの森</name>
+  </location>
+  <location>
+    <id>24</id>
+    <name>城塞都市ジャド - 屋内</name>
+  </location>
+  <location>
+    <id>25</id>
+    <name>光の神殿 - エントランス</name>
+  </location>
+  <location>
+    <id>26</id>
+    <name>ラビの森</name>
+  </location>
+  <location>
+    <id>27</id>
+    <name>ダークキャッスル - 屋内</name>
+  </location>
+  <location>
+    <id>28</id>
+    <name>ダークキャッスル - 屋内</name>
+  </location>
+  <location>
+    <id>29</id>
+    <name>光の古代遺跡 - ボス部屋</name>
+  </location>
+  <location>
+    <id>30</id>
+    <name>ラビの森</name>
+  </location>
+  <location>
+    <id>31</id>
+    <name>滝の洞窟</name>
+  </location>
+  <location>
+    <id>32</id>
+    <name>滝の洞窟</name>
+  </location>
+  <location>
+    <id>33</id>
+    <name>滝の洞窟</name>
+  </location>
+  <location>
+    <id>34</id>
+    <name>滝の洞窟</name>
+  </location>
+  <location>
+    <id>35</id>
+    <name>滝の洞窟</name>
+  </location>
+  <location>
+    <id>36</id>
+    <name>滝の洞窟</name>
+  </location>
+  <location>
+    <id>37</id>
+    <name>滝の洞窟</name>
+  </location>
+  <location>
+    <id>38</id>
+    <name>滝の洞窟</name>
+  </location>
+  <location>
+    <id>39</id>
+    <name>滝の洞窟</name>
+  </location>
+  <location>
+    <id>40</id>
+    <name>滝の洞窟</name>
+  </location>
+  <location>
+    <id>41</id>
+    <name>滝の洞窟</name>
+  </location>
+  <location>
+    <id>42</id>
+    <name>滝の洞窟</name>
+  </location>
+  <location>
+    <id>43</id>
+    <name>Grasslands - 屋外 Wendel</name>
+  </location>
+  <location>
+    <id>44</id>
+    <name>聖都ウェンデル - 屋外</name>
+  </location>
+  <location>
+    <id>45</id>
+    <name>聖都ウェンデル - 屋内</name>
+  </location>
+  <location>
+    <id>46</id>
+    <name>聖都ウェンデル - 屋内</name>
+  </location>
+  <location>
+    <id>47</id>
+    <name>聖都ウェンデル - 屋内</name>
+  </location>
+  <location>
+    <id>48</id>
+    <name>聖都ウェンデル - 屋内</name>
+  </location>
+  <location>
+    <id>49</id>
+    <name>聖都ウェンデル - 屋内</name>
+  </location>
+  <location>
+    <id>50</id>
+    <name>聖都ウェンデル - 屋内</name>
+  </location>
+  <location>
+    <id>51</id>
+    <name>聖都ウェンデル - 屋内</name>
+  </location>
+  <location>
+    <id>52</id>
+    <name>Summit of the Skies - summit</name>
+  </location>
+  <location>
+    <id>53</id>
+    <name>城塞都市ジャド - 屋外</name>
+  </location>
+  <location>
+    <id>54</id>
+    <name>コロボックルの森</name>
+  </location>
+  <location>
+    <id>55</id>
+    <name>城塞都市ジャド - 屋内</name>
+  </location>
+  <location>
+    <id>56</id>
+    <name>聖都ウェンデル - 屋内</name>
+  </location>
+  <location>
+    <id>57</id>
+    <name>聖都ウェンデル - アイテム</name>
+  </location>
+  <location>
+    <id>58</id>
+    <name>聖都ウェンデル - 屋内</name>
+  </location>
+  <location>
+    <id>59</id>
+    <name>聖都ウェンデル - 屋内</name>
+  </location>
+  <location>
+    <id>60</id>
+    <name>聖都ウェンデル - 屋内</name>
+  </location>
+  <location>
+    <id>61</id>
+    <name>聖都ウェンデル - Chemist</name>
+  </location>
+  <location>
+    <id>62</id>
+    <name>聖都ウェンデル - Armor</name>
+  </location>
+  <location>
+    <id>63</id>
+    <name>聖都ウェンデル - 屋内</name>
+  </location>
+  <location>
+    <id>64</id>
+    <name>城塞都市ジャド - gate</name>
+  </location>
+  <location>
+    <id>65</id>
+    <name>光の神殿 - エントランス</name>
+  </location>
+  <location>
+    <id>66</id>
+    <name>海岸 - 屋外 Jad</name>
+  </location>
+  <location>
+    <id>67</id>
+    <name>城塞都市ジャド 城 - 屋内</name>
+  </location>
+  <location>
+    <id>68</id>
+    <name>城塞都市ジャド 城 - 屋内</name>
+  </location>
+  <location>
+    <id>69</id>
+    <name>城塞都市ジャド 城 - 屋内</name>
+  </location>
+  <location>
+    <id>70</id>
+    <name>城塞都市ジャド 城 - 屋内</name>
+  </location>
+  <location>
+    <id>71</id>
+    <name>城塞都市ジャド 城 - 屋内</name>
+  </location>
+  <location>
+    <id>72</id>
+    <name>城塞都市ジャド 城 - 屋内</name>
+  </location>
+  <location>
+    <id>73</id>
+    <name>___INCOMPLETE マナの聖域 - ボス部屋</name>
+  </location>
+  <location>
+    <id>74</id>
+    <name>雪の都エルランド - 砂浜</name>
+  </location>
+  <location>
+    <id>75</id>
+    <name>光の神殿 - 屋外 - 西</name>
+  </location>
+  <location>
+    <id>76</id>
+    <name>光の神殿 - 屋外 - 東</name>
+  </location>
+  <location>
+    <id>77</id>
+    <name>光の神殿 - 屋内</name>
+  </location>
+  <location>
+    <id>78</id>
+    <name>光の神殿 - 屋内</name>
+  </location>
+  <location>
+    <id>79</id>
+    <name>光の神殿 - 屋内</name>
+  </location>
+  <location>
+    <id>80</id>
+    <name>光の神殿 - 屋内</name>
+  </location>
+  <location>
+    <id>81</id>
+    <name>光の神殿 - 屋内</name>
+  </location>
+  <location>
+    <id>82</id>
+    <name>光の神殿 - 屋内</name>
+  </location>
+  <location>
+    <id>83</id>
+    <name>光の神殿 - 屋内</name>
+  </location>
+  <location>
+    <id>84</id>
+    <name>光の神殿 - 屋内</name>
+  </location>
+  <location>
+    <id>85</id>
+    <name>光の神殿 - 屋内</name>
+  </location>
+  <location>
+    <id>86</id>
+    <name>光の神殿 - 屋内</name>
+  </location>
+  <location>
+    <id>87</id>
+    <name>忘却の島</name>
+  </location>
+  <location>
+    <id>88</id>
+    <name>マナの聖域</name>
+  </location>
+  <location>
+    <id>89</id>
+    <name>マナの聖域</name>
+  </location>
+  <location>
+    <id>90</id>
+    <name>マナの聖域</name>
+  </location>
+  <location>
+    <id>91</id>
+    <name>マナの聖域</name>
+  </location>
+  <location>
+    <id>92</id>
+    <name>マナの聖域</name>
+  </location>
+  <location>
+    <id>93</id>
+    <name>マナの聖域</name>
+  </location>
+  <location>
+    <id>94</id>
+    <name>マナの聖域</name>
+  </location>
+  <location>
+    <id>95</id>
+    <name>マナの聖域</name>
+  </location>
+  <location>
+    <id>96</id>
+    <name>ラビの森</name>
+  </location>
+  <location>
+    <id>97</id>
+    <name>ラビの森</name>
+  </location>
+  <location>
+    <id>98</id>
+    <name>ラビの森</name>
+  </location>
+  <location>
+    <id>99</id>
+    <name>ラビの森</name>
+  </location>
+  <location>
+    <id>100</id>
+    <name>ラビの森</name>
+  </location>
+  <location>
+    <id>101</id>
+    <name>ラビの森</name>
+  </location>
+  <location>
+    <id>102</id>
+    <name>氷壁の迷宮</name>
+  </location>
+  <location>
+    <id>103</id>
+    <name>氷壁の迷宮</name>
+  </location>
+  <location>
+    <id>104</id>
+    <name>氷壁の迷宮</name>
+  </location>
+  <location>
+    <id>105</id>
+    <name>氷壁の迷宮</name>
+  </location>
+  <location>
+    <id>106</id>
+    <name>氷壁の迷宮</name>
+  </location>
+  <location>
+    <id>107</id>
+    <name>氷壁の迷宮</name>
+  </location>
+  <location>
+    <id>108</id>
+    <name>氷壁の迷宮</name>
+  </location>
+  <location>
+    <id>109</id>
+    <name>氷壁の迷宮</name>
+  </location>
+  <location>
+    <id>110</id>
+    <name>氷壁の迷宮</name>
+  </location>
+  <location>
+    <id>111</id>
+    <name>氷壁の迷宮</name>
+  </location>
+  <location>
+    <id>112</id>
+    <name>氷壁の迷宮</name>
+  </location>
+  <location>
+    <id>113</id>
+    <name>氷壁の迷宮</name>
+  </location>
+  <location>
+    <id>114</id>
+    <name>氷壁の迷宮</name>
+  </location>
+  <location>
+    <id>115</id>
+    <name>氷壁の迷宮</name>
+  </location>
+  <location>
+    <id>116</id>
+    <name>氷壁の迷宮</name>
+  </location>
+  <location>
+    <id>117</id>
+    <name>氷壁の迷宮</name>
+  </location>
+  <location>
+    <id>118</id>
+    <name>氷壁の迷宮</name>
+  </location>
+  <location>
+    <id>119</id>
+    <name>氷壁の迷宮</name>
+  </location>
+  <location>
+    <id>120</id>
+    <name>氷壁の迷宮</name>
+  </location>
+  <location>
+    <id>121</id>
+    <name>氷壁の迷宮</name>
+  </location>
+  <location>
+    <id>122</id>
+    <name>氷壁の迷宮</name>
+  </location>
+  <location>
+    <id>123</id>
+    <name>氷壁の迷宮</name>
+  </location>
+  <location>
+    <id>124</id>
+    <name>氷壁の迷宮</name>
+  </location>
+  <location>
+    <id>125</id>
+    <name>大地の裂け目 - 屋外</name>
+  </location>
+  <location>
+    <id>126</id>
+    <name>大地の裂け目 - 屋外</name>
+  </location>
+  <location>
+    <id>127</id>
+    <name>大地の裂け目 - 屋外</name>
+  </location>
+  <location>
+    <id>128</id>
+    <name>大地の裂け目 - 洞窟</name>
+  </location>
+  <location>
+    <id>129</id>
+    <name>大地の裂け目 - 洞窟</name>
+  </location>
+  <location>
+    <id>130</id>
+    <name>秘密のアジト - 屋外</name>
+  </location>
+  <location>
+    <id>131</id>
+    <name>Path to the Heavens</name>
+  </location>
+  <location>
+    <id>132</id>
+    <name>Path to the Heavens</name>
+  </location>
+  <location>
+    <id>133</id>
+    <name>Path to the Heavens</name>
+  </location>
+  <location>
+    <id>134</id>
+    <name>Path to the Heavens</name>
+  </location>
+  <location>
+    <id>135</id>
+    <name>秘密のアジト - 屋外</name>
+  </location>
+  <location>
+    <id>136</id>
+    <name>___CAVES ボス部屋</name>
+  </location>
+  <location>
+    <id>137</id>
+    <name>マナの聖域</name>
+  </location>
+  <location>
+    <id>138</id>
+    <name>マナの聖域</name>
+  </location>
+  <location>
+    <id>139</id>
+    <name>マナの聖域</name>
+  </location>
+  <location>
+    <id>140</id>
+    <name>Path to the Heavens</name>
+  </location>
+  <location>
+    <id>141</id>
+    <name>___城 SUN ROOM</name>
+  </location>
+  <location>
+    <id>142</id>
+    <name>漁港パロ</name>
+  </location>
+  <location>
+    <id>143</id>
+    <name>火炎の谷</name>
+  </location>
+  <location>
+    <id>144</id>
+    <name>火炎の谷</name>
+  </location>
+  <location>
+    <id>145</id>
+    <name>火炎の谷</name>
+  </location>
+  <location>
+    <id>146</id>
+    <name>火炎の谷</name>
+  </location>
+  <location>
+    <id>147</id>
+    <name>火炎の谷</name>
+  </location>
+  <location>
+    <id>148</id>
+    <name>火炎の谷</name>
+  </location>
+  <location>
+    <id>149</id>
+    <name>火炎の谷</name>
+  </location>
+  <location>
+    <id>150</id>
+    <name>火炎の谷</name>
+  </location>
+  <location>
+    <id>151</id>
+    <name>火炎の谷</name>
+  </location>
+  <location>
+    <id>152</id>
+    <name>火炎の谷</name>
+  </location>
+  <location>
+    <id>153</id>
+    <name>火炎の谷</name>
+  </location>
+  <location>
+    <id>154</id>
+    <name>火炎の谷</name>
+  </location>
+  <location>
+    <id>155</id>
+    <name>火炎の谷</name>
+  </location>
+  <location>
+    <id>156</id>
+    <name>火炎の谷</name>
+  </location>
+  <location>
+    <id>157</id>
+    <name>火炎の谷</name>
+  </location>
+  <location>
+    <id>158</id>
+    <name>火炎の谷</name>
+  </location>
+  <location>
+    <id>159</id>
+    <name>火炎の谷</name>
+  </location>
+  <location>
+    <id>160</id>
+    <name>火炎の谷</name>
+  </location>
+  <location>
+    <id>161</id>
+    <name>火炎の谷</name>
+  </location>
+  <location>
+    <id>162</id>
+    <name>火炎の谷</name>
+  </location>
+  <location>
+    <id>163</id>
+    <name>風の王国ローラント</name>
+  </location>
+  <location>
+    <id>164</id>
+    <name>風の王国ローラント</name>
+  </location>
+  <location>
+    <id>165</id>
+    <name>___EMPTY CAVE</name>
+  </location>
+  <location>
+    <id>166</id>
+    <name>Path to the Heavens - 洞窟</name>
+  </location>
+  <location>
+    <id>167</id>
+    <name>Path to the Heavens - 洞窟</name>
+  </location>
+  <location>
+    <id>168</id>
+    <name>Path to the Heavens - 洞窟</name>
+  </location>
+  <location>
+    <id>169</id>
+    <name>Path to the Heavens - 洞窟</name>
+  </location>
+  <location>
+    <id>170</id>
+    <name>聖都ウェンデル - 屋内</name>
+  </location>
+  <location>
+    <id>171</id>
+    <name>ガラスの砂漠</name>
+  </location>
+  <location>
+    <id>172</id>
+    <name>ガラスの砂漠</name>
+  </location>
+  <location>
+    <id>173</id>
+    <name>Summit of the Skies</name>
+  </location>
+  <location>
+    <id>174</id>
+    <name>Summit of the Skies</name>
+  </location>
+  <location>
+    <id>175</id>
+    <name>Summit of the Skies</name>
+  </location>
+  <location>
+    <id>176</id>
+    <name>___城 屋内</name>
+  </location>
+  <location>
+    <id>177</id>
+    <name>Summit of the Skies</name>
+  </location>
+  <location>
+    <id>178</id>
+    <name>大地の裂け目</name>
+  </location>
+  <location>
+    <id>179</id>
+    <name>___UNUSED 港</name>
+  </location>
+  <location>
+    <id>180</id>
+    <name>暗闇の洞窟</name>
+  </location>
+  <location>
+    <id>181</id>
+    <name>ガラスの砂漠 - 北壁</name>
+  </location>
+  <location>
+    <id>182</id>
+    <name>大地の裂け目 - ドワーフのトンネル</name>
+  </location>
+  <location>
+    <id>183</id>
+    <name>大地の裂け目 - ドワーフのトンネル</name>
+  </location>
+  <location>
+    <id>184</id>
+    <name>大地の裂け目 - ドワーフのトンネル</name>
+  </location>
+  <location>
+    <id>185</id>
+    <name>大地の裂け目 - ドワーフのトンネル</name>
+  </location>
+  <location>
+    <id>186</id>
+    <name>大地の裂け目 - ドワーフのトンネル</name>
+  </location>
+  <location>
+    <id>187</id>
+    <name>大地の裂け目 - ドワーフのトンネル</name>
+  </location>
+  <location>
+    <id>188</id>
+    <name>大地の裂け目 - ドワーフのトンネル</name>
+  </location>
+  <location>
+    <id>189</id>
+    <name>風の王国ローラント - エントランス</name>
+  </location>
+  <location>
+    <id>190</id>
+    <name>Path to the Heavens</name>
+  </location>
+  <location>
+    <id>191</id>
+    <name>Path to the Heavens</name>
+  </location>
+  <location>
+    <id>192</id>
+    <name>大地の裂け目 - ドワーフのトンネル</name>
+  </location>
+  <location>
+    <id>193</id>
+    <name>大地の裂け目 - ドワーフのトンネル</name>
+  </location>
+  <location>
+    <id>194</id>
+    <name>大地の裂け目 - ドワーフのトンネル</name>
+  </location>
+  <location>
+    <id>195</id>
+    <name>大地の裂け目 - ドワーフのトンネル</name>
+  </location>
+  <location>
+    <id>196</id>
+    <name>大地の裂け目 - ドワーフのトンネル</name>
+  </location>
+  <location>
+    <id>197</id>
+    <name>大地の裂け目 - ドワーフのトンネル</name>
+  </location>
+  <location>
+    <id>198</id>
+    <name>大地の裂け目 - ドワーフのトンネル</name>
+  </location>
+  <location>
+    <id>199</id>
+    <name>大地の裂け目 - ドワーフのトンネル</name>
+  </location>
+  <location>
+    <id>200</id>
+    <name>大地の裂け目 - ドワーフのトンネル</name>
+  </location>
+  <location>
+    <id>201</id>
+    <name>大地の裂け目 - ドワーフのトンネル</name>
+  </location>
+  <location>
+    <id>202</id>
+    <name>大地の裂け目 - ドワーフのトンネル</name>
+  </location>
+  <location>
+    <id>203</id>
+    <name>大地の裂け目 - ドワーフのトンネル</name>
+  </location>
+  <location>
+    <id>204</id>
+    <name>大地の裂け目 - ドワーフのトンネル</name>
+  </location>
+  <location>
+    <id>205</id>
+    <name>大地の裂け目 - ドワーフのトンネル</name>
+  </location>
+  <location>
+    <id>206</id>
+    <name>大地の裂け目 - ドワーフのトンネル</name>
+  </location>
+  <location>
+    <id>207</id>
+    <name>大地の裂け目 - ドワーフのトンネル</name>
+  </location>
+  <location>
+    <id>208</id>
+    <name>大地の裂け目 - ドワーフのトンネル</name>
+  </location>
+  <location>
+    <id>209</id>
+    <name>大地の裂け目 - ドワーフのトンネル</name>
+  </location>
+  <location>
+    <id>210</id>
+    <name>大地の裂け目 - ドワーフのトンネル</name>
+  </location>
+  <location>
+    <id>211</id>
+    <name>大地の裂け目 - ドワーフのトンネル</name>
+  </location>
+  <location>
+    <id>212</id>
+    <name>古の都ペダン</name>
+  </location>
+  <location>
+    <id>213</id>
+    <name>雪の都エルランド - 屋外</name>
+  </location>
+  <location>
+    <id>214</id>
+    <name>Path to the Heavens</name>
+  </location>
+  <location>
+    <id>215</id>
+    <name>魔法王国アルテナ - gate</name>
+  </location>
+  <location>
+    <id>216</id>
+    <name>魔法王国アルテナ - 屋外</name>
+  </location>
+  <location>
+    <id>217</id>
+    <name>魔法王国アルテナ 城 - 東 gate</name>
+  </location>
+  <location>
+    <id>218</id>
+    <name>砂の要塞ナバール - エントランス</name>
+  </location>
+  <location>
+    <id>219</id>
+    <name>宝石の谷ドリアン</name>
+  </location>
+  <location>
+    <id>220</id>
+    <name>宝石の谷ドリアン</name>
+  </location>
+  <location>
+    <id>221</id>
+    <name>ミラージュパレス - candles</name>
+  </location>
+  <location>
+    <id>222</id>
+    <name>宝石の谷ドリアン</name>
+  </location>
+  <location>
+    <id>223</id>
+    <name>宝石の谷ドリアン</name>
+  </location>
+  <location>
+    <id>224</id>
+    <name>宝石の谷ドリアン</name>
+  </location>
+  <location>
+    <id>225</id>
+    <name>宝石の谷ドリアン</name>
+  </location>
+  <location>
+    <id>226</id>
+    <name>宝石の谷ドリアン</name>
+  </location>
+  <location>
+    <id>227</id>
+    <name>宝石の谷ドリアン</name>
+  </location>
+  <location>
+    <id>228</id>
+    <name>宝石の谷ドリアン</name>
+  </location>
+  <location>
+    <id>229</id>
+    <name>宝石の谷ドリアン</name>
+  </location>
+  <location>
+    <id>230</id>
+    <name>宝石の谷ドリアン</name>
+  </location>
+  <location>
+    <id>231</id>
+    <name>宝石の谷ドリアン</name>
+  </location>
+  <location>
+    <id>232</id>
+    <name>宝石の谷ドリアン - 洞窟</name>
+  </location>
+  <location>
+    <id>233</id>
+    <name>宝石の谷ドリアン - 洞窟</name>
+  </location>
+  <location>
+    <id>234</id>
+    <name>宝石の谷ドリアン - 洞窟</name>
+  </location>
+  <location>
+    <id>235</id>
+    <name>宝石の谷ドリアン - 洞窟</name>
+  </location>
+  <location>
+    <id>236</id>
+    <name>Path to the Heavens</name>
+  </location>
+  <location>
+    <id>237</id>
+    <name>宝石の谷ドリアン</name>
+  </location>
+  <location>
+    <id>238</id>
+    <name>宝石の谷ドリアン</name>
+  </location>
+  <location>
+    <id>239</id>
+    <name>宝石の谷ドリアン</name>
+  </location>
+  <location>
+    <id>240</id>
+    <name>___城 屋内</name>
+  </location>
+  <location>
+    <id>241</id>
+    <name>宝石の谷ドリアン</name>
+  </location>
+  <location>
+    <id>242</id>
+    <name>風の王国ローラント - 屋外</name>
+  </location>
+  <location>
+    <id>243</id>
+    <name>草原の王国フォルセナ - 屋外</name>
+  </location>
+  <location>
+    <id>244</id>
+    <name>Summit of the Skies</name>
+  </location>
+  <location>
+    <id>245</id>
+    <name>Summit of the Skies</name>
+  </location>
+  <location>
+    <id>246</id>
+    <name>草原の王国フォルセナ - 屋内</name>
+  </location>
+  <location>
+    <id>247</id>
+    <name>草原の王国フォルセナ - 屋内</name>
+  </location>
+  <location>
+    <id>248</id>
+    <name>マナの聖域</name>
+  </location>
+  <location>
+    <id>249</id>
+    <name>マナの聖域</name>
+  </location>
+  <location>
+    <id>250</id>
+    <name>草原の王国フォルセナ - 屋内</name>
+  </location>
+  <location>
+    <id>251</id>
+    <name>草原の王国フォルセナ - 屋内</name>
+  </location>
+  <location>
+    <id>252</id>
+    <name>草原の王国フォルセナ - main hall</name>
+  </location>
+  <location>
+    <id>253</id>
+    <name>草原の王国フォルセナ - 玉座の間</name>
+  </location>
+  <location>
+    <id>254</id>
+    <name>___TEMPLE ALTAR ROOM</name>
+  </location>
+  <location>
+    <id>255</id>
+    <name>ダークキャッスル - roofs</name>
+  </location>
+  <location>
+    <id>256</id>
+    <name>草原の王国フォルセナ - 宿</name>
+  </location>
+  <location>
+    <id>257</id>
+    <name>草原の王国フォルセナ - 屋内</name>
+  </location>
+  <location>
+    <id>258</id>
+    <name>草原の王国フォルセナ - 屋内</name>
+  </location>
+  <location>
+    <id>259</id>
+    <name>草原の王国フォルセナ - 屋内</name>
+  </location>
+  <location>
+    <id>260</id>
+    <name>草原の王国フォルセナ - 武器/防具</name>
+  </location>
+  <location>
+    <id>261</id>
+    <name>草原の王国フォルセナ - House - 2nd Floor</name>
+  </location>
+  <location>
+    <id>262</id>
+    <name>草原の王国フォルセナ - アイテム</name>
+  </location>
+  <location>
+    <id>263</id>
+    <name>風の回廊</name>
+  </location>
+  <location>
+    <id>264</id>
+    <name>風の回廊</name>
+  </location>
+  <location>
+    <id>265</id>
+    <name>風の回廊</name>
+  </location>
+  <location>
+    <id>266</id>
+    <name>風の回廊</name>
+  </location>
+  <location>
+    <id>267</id>
+    <name>風の回廊</name>
+  </location>
+  <location>
+    <id>268</id>
+    <name>風の回廊</name>
+  </location>
+  <location>
+    <id>269</id>
+    <name>風の回廊</name>
+  </location>
+  <location>
+    <id>270</id>
+    <name>風の回廊</name>
+  </location>
+  <location>
+    <id>271</id>
+    <name>風の回廊</name>
+  </location>
+  <location>
+    <id>272</id>
+    <name>風の回廊</name>
+  </location>
+  <location>
+    <id>273</id>
+    <name>ランプ花の森 - 砂浜</name>
+  </location>
+  <location>
+    <id>274</id>
+    <name>風の回廊 - cliffs</name>
+  </location>
+  <location>
+    <id>275</id>
+    <name>___UNUSED - Genova boss</name>
+  </location>
+  <location>
+    <id>276</id>
+    <name>ダークキャッスル - 屋内</name>
+  </location>
+  <location>
+    <id>277</id>
+    <name>マナの聖域</name>
+  </location>
+  <location>
+    <id>278</id>
+    <name>風の回廊 - cliffs</name>
+  </location>
+  <location>
+    <id>279</id>
+    <name>___EMPTY HOUSE - with machine golem</name>
+  </location>
+  <location>
+    <id>280</id>
+    <name>風の回廊 - cliffs</name>
+  </location>
+  <location>
+    <id>281</id>
+    <name>___UNUSED</name>
+  </location>
+  <location>
+    <id>282</id>
+    <name>___UNUSED</name>
+  </location>
+  <location>
+    <id>283</id>
+    <name>風の回廊 - ボス部屋</name>
+  </location>
+  <location>
+    <id>284</id>
+    <name>月明りの都ミントス - 屋外</name>
+  </location>
+  <location>
+    <id>285</id>
+    <name>雪の都エルランド - 屋内</name>
+  </location>
+  <location>
+    <id>286</id>
+    <name>雪の都エルランド - 屋内</name>
+  </location>
+  <location>
+    <id>287</id>
+    <name>雪の都エルランド - 屋内</name>
+  </location>
+  <location>
+    <id>288</id>
+    <name>雪の都エルランド - 屋内</name>
+  </location>
+  <location>
+    <id>289</id>
+    <name>___HOUSE SHOP 屋内</name>
+  </location>
+  <location>
+    <id>290</id>
+    <name>___UNUSED</name>
+  </location>
+  <location>
+    <id>291</id>
+    <name>___UNUSED</name>
+  </location>
+  <location>
+    <id>292</id>
+    <name>雪の都エルランド - 屋内</name>
+  </location>
+  <location>
+    <id>293</id>
+    <name>魔法王国アルテナ - 屋内</name>
+  </location>
+  <location>
+    <id>294</id>
+    <name>魔法王国アルテナ - 屋内</name>
+  </location>
+  <location>
+    <id>295</id>
+    <name>魔法王国アルテナ - 屋内</name>
+  </location>
+  <location>
+    <id>296</id>
+    <name>魔法王国アルテナ - 屋内</name>
+  </location>
+  <location>
+    <id>297</id>
+    <name>魔法王国アルテナ - 屋内</name>
+  </location>
+  <location>
+    <id>298</id>
+    <name>魔法王国アルテナ - 屋内</name>
+  </location>
+  <location>
+    <id>299</id>
+    <name>魔法王国アルテナ - 屋内</name>
+  </location>
+  <location>
+    <id>300</id>
+    <name>砂の要塞ナバール - 屋外</name>
+  </location>
+  <location>
+    <id>301</id>
+    <name>砂の要塞ナバール - 屋内</name>
+  </location>
+  <location>
+    <id>302</id>
+    <name>砂の要塞ナバール - 屋内</name>
+  </location>
+  <location>
+    <id>303</id>
+    <name>砂の要塞ナバール - 屋内</name>
+  </location>
+  <location>
+    <id>304</id>
+    <name>砂の要塞ナバール - 屋内</name>
+  </location>
+  <location>
+    <id>305</id>
+    <name>砂の要塞ナバール - 屋内</name>
+  </location>
+  <location>
+    <id>306</id>
+    <name>砂の要塞ナバール - 屋内</name>
+  </location>
+  <location>
+    <id>307</id>
+    <name>砂の要塞ナバール - 屋内</name>
+  </location>
+  <location>
+    <id>308</id>
+    <name>砂の要塞ナバール - 屋内</name>
+  </location>
+  <location>
+    <id>309</id>
+    <name>砂の要塞ナバール - 玉座の間</name>
+  </location>
+  <location>
+    <id>310</id>
+    <name>砂の要塞ナバール - 屋内</name>
+  </location>
+  <location>
+    <id>311</id>
+    <name>砂の要塞ナバール - 屋内</name>
+  </location>
+  <location>
+    <id>312</id>
+    <name>砂の要塞ナバール - 屋内</name>
+  </location>
+  <location>
+    <id>313</id>
+    <name>砂の要塞ナバール - 屋内</name>
+  </location>
+  <location>
+    <id>314</id>
+    <name>砂の要塞ナバール - 屋内</name>
+  </location>
+  <location>
+    <id>315</id>
+    <name>砂の要塞ナバール - 屋内</name>
+  </location>
+  <location>
+    <id>316</id>
+    <name>砂の要塞ナバール - 屋内</name>
+  </location>
+  <location>
+    <id>317</id>
+    <name>砂の要塞ナバール - 屋内</name>
+  </location>
+  <location>
+    <id>318</id>
+    <name>砂の要塞ナバール - 牢獄</name>
+  </location>
+  <location>
+    <id>319</id>
+    <name>砂の都サルタン - 屋外</name>
+  </location>
+  <location>
+    <id>320</id>
+    <name>砂の要塞ナバール - 屋内</name>
+  </location>
+  <location>
+    <id>321</id>
+    <name>砂の要塞ナバール - 屋内</name>
+  </location>
+  <location>
+    <id>322</id>
+    <name>砂の要塞ナバール - 洞窟</name>
+  </location>
+  <location>
+    <id>323</id>
+    <name>砂の要塞ナバール - 洞窟</name>
+  </location>
+  <location>
+    <id>324</id>
+    <name>砂の要塞ナバール - 洞窟</name>
+  </location>
+  <location>
+    <id>325</id>
+    <name>砂の要塞ナバール - 洞窟</name>
+  </location>
+  <location>
+    <id>326</id>
+    <name>砂の要塞ナバール - 洞窟</name>
+  </location>
+  <location>
+    <id>327</id>
+    <name>ビーストキングダム 城 - gate</name>
+  </location>
+  <location>
+    <id>328</id>
+    <name>古の都ペダン - 東</name>
+  </location>
+  <location>
+    <id>329</id>
+    <name>古の都ペダン - 屋内</name>
+  </location>
+  <location>
+    <id>330</id>
+    <name>古の都ペダン - 屋内</name>
+  </location>
+  <location>
+    <id>331</id>
+    <name>古の都ペダン - 屋内</name>
+  </location>
+  <location>
+    <id>332</id>
+    <name>古の都ペダン - 屋内</name>
+  </location>
+  <location>
+    <id>333</id>
+    <name>古の都ペダン - 屋内</name>
+  </location>
+  <location>
+    <id>334</id>
+    <name>古の都ペダン - 屋内</name>
+  </location>
+  <location>
+    <id>335</id>
+    <name>Path to the Heavens - 橋</name>
+  </location>
+  <location>
+    <id>336</id>
+    <name>Path to the Heavens - 洞窟</name>
+  </location>
+  <location>
+    <id>337</id>
+    <name>オアシスの村ディーン - 屋外</name>
+  </location>
+  <location>
+    <id>338</id>
+    <name>オアシスの村ディーン - 屋内</name>
+  </location>
+  <location>
+    <id>339</id>
+    <name>オアシスの村ディーン - 屋内</name>
+  </location>
+  <location>
+    <id>340</id>
+    <name>オアシスの村ディーン - 屋内</name>
+  </location>
+  <location>
+    <id>341</id>
+    <name>オアシスの村ディーン - 屋内</name>
+  </location>
+  <location>
+    <id>342</id>
+    <name>オアシスの村ディーン - 屋内</name>
+  </location>
+  <location>
+    <id>343</id>
+    <name>オアシスの村ディーン - 屋内</name>
+  </location>
+  <location>
+    <id>344</id>
+    <name>風の回廊</name>
+  </location>
+  <location>
+    <id>345</id>
+    <name>ビーストキングダム 城 - roofs</name>
+  </location>
+  <location>
+    <id>346</id>
+    <name>___空き部屋</name>
+  </location>
+  <location>
+    <id>347</id>
+    <name>___HOUSE SHOP 屋内</name>
+  </location>
+  <location>
+    <id>348</id>
+    <name>自由都市マイア - 屋外</name>
+  </location>
+  <location>
+    <id>349</id>
+    <name>自由都市マイア - 港</name>
+  </location>
+  <location>
+    <id>350</id>
+    <name>砂の都サルタン - 屋外</name>
+  </location>
+  <location>
+    <id>351</id>
+    <name>砂の都サルタン - 屋内</name>
+  </location>
+  <location>
+    <id>352</id>
+    <name>砂の都サルタン - 屋内</name>
+  </location>
+  <location>
+    <id>353</id>
+    <name>砂の都サルタン - 屋内</name>
+  </location>
+  <location>
+    <id>354</id>
+    <name>砂の都サルタン - 屋内</name>
+  </location>
+  <location>
+    <id>355</id>
+    <name>砂の都サルタン - 屋内</name>
+  </location>
+  <location>
+    <id>356</id>
+    <name>砂の都サルタン - 屋内</name>
+  </location>
+  <location>
+    <id>357</id>
+    <name>砂の都サルタン - 屋内</name>
+  </location>
+  <location>
+    <id>358</id>
+    <name>砂の都サルタン - 屋内</name>
+  </location>
+  <location>
+    <id>359</id>
+    <name>砂の都サルタン - 屋内</name>
+  </location>
+  <location>
+    <id>360</id>
+    <name>砂の都サルタン - 屋内</name>
+  </location>
+  <location>
+    <id>361</id>
+    <name>自由都市マイア - cannon pad</name>
+  </location>
+  <location>
+    <id>362</id>
+    <name>魔法王国アルテナ 城 - 屋内</name>
+  </location>
+  <location>
+    <id>363</id>
+    <name>魔法王国アルテナ 城 - 屋内</name>
+  </location>
+  <location>
+    <id>364</id>
+    <name>魔法王国アルテナ 城 - 屋内</name>
+  </location>
+  <location>
+    <id>365</id>
+    <name>魔法王国アルテナ 城 - 屋内</name>
+  </location>
+  <location>
+    <id>366</id>
+    <name>魔法王国アルテナ 城 - 屋内</name>
+  </location>
+  <location>
+    <id>367</id>
+    <name>魔法王国アルテナ 城 - 屋内</name>
+  </location>
+  <location>
+    <id>368</id>
+    <name>魔法王国アルテナ 城 - 屋内</name>
+  </location>
+  <location>
+    <id>369</id>
+    <name>魔法王国アルテナ 城 - 屋内</name>
+  </location>
+  <location>
+    <id>370</id>
+    <name>魔法王国アルテナ 城 - 屋内</name>
+  </location>
+  <location>
+    <id>371</id>
+    <name>魔法王国アルテナ 城 - 屋内</name>
+  </location>
+  <location>
+    <id>372</id>
+    <name>魔法王国アルテナ 城 - 屋内</name>
+  </location>
+  <location>
+    <id>373</id>
+    <name>魔法王国アルテナ 城 - 屋外</name>
+  </location>
+  <location>
+    <id>374</id>
+    <name>魔法王国アルテナ 城 - 屋外</name>
+  </location>
+  <location>
+    <id>375</id>
+    <name>魔法王国アルテナ 城 - 屋内</name>
+  </location>
+  <location>
+    <id>376</id>
+    <name>魔法王国アルテナ 城 - 屋内</name>
+  </location>
+  <location>
+    <id>377</id>
+    <name>魔法王国アルテナ 城 - 屋内</name>
+  </location>
+  <location>
+    <id>378</id>
+    <name>魔法王国アルテナ 城 - 屋内</name>
+  </location>
+  <location>
+    <id>379</id>
+    <name>魔法王国アルテナ 城 - 屋内</name>
+  </location>
+  <location>
+    <id>380</id>
+    <name>魔法王国アルテナ 城 - 屋内</name>
+  </location>
+  <location>
+    <id>381</id>
+    <name>暗闇の洞窟 - 屋外</name>
+  </location>
+  <location>
+    <id>382</id>
+    <name>暗闇の洞窟 - 洞窟</name>
+  </location>
+  <location>
+    <id>383</id>
+    <name>草原の王国フォルセナ 城 - 屋内</name>
+  </location>
+  <location>
+    <id>384</id>
+    <name>草原の王国フォルセナ 城 - 屋内</name>
+  </location>
+  <location>
+    <id>385</id>
+    <name>草原の王国フォルセナ 城 - 屋内</name>
+  </location>
+  <location>
+    <id>386</id>
+    <name>草原の王国フォルセナ 城 - 屋内</name>
+  </location>
+  <location>
+    <id>387</id>
+    <name>草原の王国フォルセナ 城 - 屋内</name>
+  </location>
+  <location>
+    <id>388</id>
+    <name>草原の王国フォルセナ 城 - 屋内</name>
+  </location>
+  <location>
+    <id>389</id>
+    <name>草原の王国フォルセナ 城 - 屋外</name>
+  </location>
+  <location>
+    <id>390</id>
+    <name>草原の王国フォルセナ 城 - 屋外</name>
+  </location>
+  <location>
+    <id>391</id>
+    <name>草原の王国フォルセナ 城 - 屋外</name>
+  </location>
+  <location>
+    <id>392</id>
+    <name>草原の王国フォルセナ 城 - 屋外</name>
+  </location>
+  <location>
+    <id>393</id>
+    <name>Archdemon Background</name>
+  </location>
+  <location>
+    <id>394</id>
+    <name>自由都市マイア - 屋内</name>
+  </location>
+  <location>
+    <id>395</id>
+    <name>自由都市マイア - 屋内</name>
+  </location>
+  <location>
+    <id>396</id>
+    <name>自由都市マイア - 屋内</name>
+  </location>
+  <location>
+    <id>397</id>
+    <name>___HOUSE 屋内</name>
+  </location>
+  <location>
+    <id>398</id>
+    <name>自由都市マイア - 屋内</name>
+  </location>
+  <location>
+    <id>399</id>
+    <name>___HOUSE 屋内</name>
+  </location>
+  <location>
+    <id>400</id>
+    <name>ビーストキングダム 城 - 屋内</name>
+  </location>
+  <location>
+    <id>401</id>
+    <name>ビーストキングダム 城 - 屋内</name>
+  </location>
+  <location>
+    <id>402</id>
+    <name>ビーストキングダム 城 - 屋内</name>
+  </location>
+  <location>
+    <id>403</id>
+    <name>ビーストキングダム 城 - 屋内</name>
+  </location>
+  <location>
+    <id>404</id>
+    <name>ビーストキングダム 城 - 屋内</name>
+  </location>
+  <location>
+    <id>405</id>
+    <name>ビーストキングダム 城 - 屋内</name>
+  </location>
+  <location>
+    <id>406</id>
+    <name>ビーストキングダム 城 - 屋内</name>
+  </location>
+  <location>
+    <id>407</id>
+    <name>ビーストキングダム 城 - 屋内</name>
+  </location>
+  <location>
+    <id>408</id>
+    <name>ビーストキングダム 城 - 屋内</name>
+  </location>
+  <location>
+    <id>409</id>
+    <name>ビーストキングダム 城 - 屋内</name>
+  </location>
+  <location>
+    <id>410</id>
+    <name>ビーストキングダム 城 - 屋内</name>
+  </location>
+  <location>
+    <id>411</id>
+    <name>ビーストキングダム 城 - 屋内</name>
+  </location>
+  <location>
+    <id>412</id>
+    <name>ビーストキングダム 城 - 屋内</name>
+  </location>
+  <location>
+    <id>413</id>
+    <name>ビーストキングダム 城 - 屋内</name>
+  </location>
+  <location>
+    <id>414</id>
+    <name>ビーストキングダム 城 - 屋内</name>
+  </location>
+  <location>
+    <id>415</id>
+    <name>ビーストキングダム 城 - 屋内</name>
+  </location>
+  <location>
+    <id>416</id>
+    <name>ビーストキングダム 城 - 屋内</name>
+  </location>
+  <location>
+    <id>417</id>
+    <name>ビーストキングダム 城 - 屋内</name>
+  </location>
+  <location>
+    <id>418</id>
+    <name>ビーストキングダム 城 - 屋内</name>
+  </location>
+  <location>
+    <id>419</id>
+    <name>ビーストキングダム 城 - 屋内</name>
+  </location>
+  <location>
+    <id>420</id>
+    <name>ビーストキングダム 城 - 屋内</name>
+  </location>
+  <location>
+    <id>421</id>
+    <name>ビーストキングダム 城 - 屋内</name>
+  </location>
+  <location>
+    <id>422</id>
+    <name>暗闇の洞窟</name>
+  </location>
+  <location>
+    <id>423</id>
+    <name>ミラージュパレス - 屋外</name>
+  </location>
+  <location>
+    <id>424</id>
+    <name>ミラージュパレス - 屋外</name>
+  </location>
+  <location>
+    <id>425</id>
+    <name>ミラージュパレス - 屋外</name>
+  </location>
+  <location>
+    <id>426</id>
+    <name>宝石の谷ドリアン</name>
+  </location>
+  <location>
+    <id>427</id>
+    <name>宝石の谷ドリアン</name>
+  </location>
+  <location>
+    <id>428</id>
+    <name>砂の要塞ナバール - 屋内</name>
+  </location>
+  <location>
+    <id>429</id>
+    <name>砂の要塞ナバール - 屋内</name>
+  </location>
+  <location>
+    <id>430</id>
+    <name>砂の要塞ナバール - 屋内</name>
+  </location>
+  <location>
+    <id>431</id>
+    <name>砂の要塞ナバール - 屋内</name>
+  </location>
+  <location>
+    <id>432</id>
+    <name>コロボックルの森 - 屋内</name>
+  </location>
+  <location>
+    <id>433</id>
+    <name>コロボックルの森 - 屋内</name>
+  </location>
+  <location>
+    <id>434</id>
+    <name>コロボックルの森 - 屋内</name>
+  </location>
+  <location>
+    <id>435</id>
+    <name>コロボックルの森 - 屋内</name>
+  </location>
+  <location>
+    <id>436</id>
+    <name>コロボックルの森 - 屋内</name>
+  </location>
+  <location>
+    <id>437</id>
+    <name>漁港パロ - 屋内</name>
+  </location>
+  <location>
+    <id>438</id>
+    <name>漁港パロ - 屋内</name>
+  </location>
+  <location>
+    <id>439</id>
+    <name>漁港パロ - 屋内</name>
+  </location>
+  <location>
+    <id>440</id>
+    <name>漁港パロ - 屋内</name>
+  </location>
+  <location>
+    <id>441</id>
+    <name>漁港パロ - 屋内</name>
+  </location>
+  <location>
+    <id>442</id>
+    <name>漁港パロ - 屋内</name>
+  </location>
+  <location>
+    <id>443</id>
+    <name>漁港パロ - 屋内</name>
+  </location>
+  <location>
+    <id>444</id>
+    <name>漁港パロ - 屋内</name>
+  </location>
+  <location>
+    <id>445</id>
+    <name>火山島ブッカ - 砂浜</name>
+  </location>
+  <location>
+    <id>446</id>
+    <name>火山島ブッカ - 砂浜</name>
+  </location>
+  <location>
+    <id>447</id>
+    <name>火山島ブッカ - 砂浜</name>
+  </location>
+  <location>
+    <id>448</id>
+    <name>火山島ブッカ - 砂浜</name>
+  </location>
+  <location>
+    <id>449</id>
+    <name>火山島ブッカ - 砂浜</name>
+  </location>
+  <location>
+    <id>450</id>
+    <name>火山島ブッカ - 砂浜</name>
+  </location>
+  <location>
+    <id>451</id>
+    <name>モールベアの高原</name>
+  </location>
+  <location>
+    <id>452</id>
+    <name>モールベアの高原</name>
+  </location>
+  <location>
+    <id>453</id>
+    <name>モールベアの高原</name>
+  </location>
+  <location>
+    <id>454</id>
+    <name>モールベアの高原</name>
+  </location>
+  <location>
+    <id>455</id>
+    <name>モールベアの高原</name>
+  </location>
+  <location>
+    <id>456</id>
+    <name>モールベアの高原</name>
+  </location>
+  <location>
+    <id>457</id>
+    <name>モールベアの高原</name>
+  </location>
+  <location>
+    <id>458</id>
+    <name>モールベアの高原</name>
+  </location>
+  <location>
+    <id>459</id>
+    <name>モールベアの高原</name>
+  </location>
+  <location>
+    <id>460</id>
+    <name>モールベアの高原</name>
+  </location>
+  <location>
+    <id>461</id>
+    <name>モールベアの高原</name>
+  </location>
+  <location>
+    <id>462</id>
+    <name>モールベアの高原</name>
+  </location>
+  <location>
+    <id>463</id>
+    <name>モールベアの高原</name>
+  </location>
+  <location>
+    <id>464</id>
+    <name>モールベアの高原</name>
+  </location>
+  <location>
+    <id>465</id>
+    <name>モールベアの高原</name>
+  </location>
+  <location>
+    <id>466</id>
+    <name>モールベアの高原</name>
+  </location>
+  <location>
+    <id>467</id>
+    <name>モールベアの高原</name>
+  </location>
+  <location>
+    <id>468</id>
+    <name>モールベアの高原</name>
+  </location>
+  <location>
+    <id>469</id>
+    <name>モールベアの高原</name>
+  </location>
+  <location>
+    <id>470</id>
+    <name>モールベアの高原</name>
+  </location>
+  <location>
+    <id>471</id>
+    <name>モールベアの高原</name>
+  </location>
+  <location>
+    <id>472</id>
+    <name>モールベアの高原</name>
+  </location>
+  <location>
+    <id>473</id>
+    <name>砂の要塞ナバール - 屋外</name>
+  </location>
+  <location>
+    <id>474</id>
+    <name>風の王国ローラント 城 - 屋内</name>
+  </location>
+  <location>
+    <id>475</id>
+    <name>風の王国ローラント 城 - 屋内</name>
+  </location>
+  <location>
+    <id>476</id>
+    <name>風の王国ローラント 城 - 屋内</name>
+  </location>
+  <location>
+    <id>477</id>
+    <name>風の王国ローラント 城 - 屋内</name>
+  </location>
+  <location>
+    <id>478</id>
+    <name>風の王国ローラント 城 - 屋内</name>
+  </location>
+  <location>
+    <id>479</id>
+    <name>風の王国ローラント 城 - 屋内</name>
+  </location>
+  <location>
+    <id>480</id>
+    <name>風の王国ローラント 城 - 屋内</name>
+  </location>
+  <location>
+    <id>481</id>
+    <name>風の王国ローラント 城 - 屋内</name>
+  </location>
+  <location>
+    <id>482</id>
+    <name>風の王国ローラント 城 - 屋内</name>
+  </location>
+  <location>
+    <id>483</id>
+    <name>風の王国ローラント 城 - 屋内</name>
+  </location>
+  <location>
+    <id>484</id>
+    <name>風の王国ローラント 城 - 屋内</name>
+  </location>
+  <location>
+    <id>485</id>
+    <name>風の王国ローラント 城 - 屋内</name>
+  </location>
+  <location>
+    <id>486</id>
+    <name>風の王国ローラント 城 - 屋内</name>
+  </location>
+  <location>
+    <id>487</id>
+    <name>風の王国ローラント 城 - 屋内</name>
+  </location>
+  <location>
+    <id>488</id>
+    <name>風の王国ローラント 城 - 屋内</name>
+  </location>
+  <location>
+    <id>489</id>
+    <name>___HOUSE 屋内</name>
+  </location>
+  <location>
+    <id>490</id>
+    <name>商業都市バイゼル - 屋内</name>
+  </location>
+  <location>
+    <id>491</id>
+    <name>商業都市バイゼル - 港</name>
+  </location>
+  <location>
+    <id>492</id>
+    <name>漁港パロ - 港</name>
+  </location>
+  <location>
+    <id>493</id>
+    <name>商業都市バイゼル - 屋内</name>
+  </location>
+  <location>
+    <id>494</id>
+    <name>黄金の街道</name>
+  </location>
+  <location>
+    <id>495</id>
+    <name>黄金の街道</name>
+  </location>
+  <location>
+    <id>496</id>
+    <name>黄金の街道</name>
+  </location>
+  <location>
+    <id>497</id>
+    <name>黄金の街道</name>
+  </location>
+  <location>
+    <id>498</id>
+    <name>黄金の街道</name>
+  </location>
+  <location>
+    <id>499</id>
+    <name>黄金の街道</name>
+  </location>
+  <location>
+    <id>500</id>
+    <name>黄金の街道</name>
+  </location>
+  <location>
+    <id>501</id>
+    <name>黄金の街道</name>
+  </location>
+  <location>
+    <id>502</id>
+    <name>黄金の街道</name>
+  </location>
+  <location>
+    <id>503</id>
+    <name>黄金の街道</name>
+  </location>
+  <location>
+    <id>504</id>
+    <name>ランプ花の森 - ボス部屋</name>
+  </location>
+  <location>
+    <id>505</id>
+    <name>ミラージュパレス - 屋外</name>
+  </location>
+  <location>
+    <id>506</id>
+    <name>ミラージュパレス - 屋外</name>
+  </location>
+  <location>
+    <id>507</id>
+    <name>ミラージュパレス - 屋外</name>
+  </location>
+  <location>
+    <id>508</id>
+    <name>風の回廊</name>
+  </location>
+  <location>
+    <id>509</id>
+    <name>月読みの塔</name>
+  </location>
+  <location>
+    <id>510</id>
+    <name>月明りの森</name>
+  </location>
+  <location>
+    <id>511</id>
+    <name>月読みの塔 - エントランス</name>
+  </location>
+  <location>
+    <id>512</id>
+    <name>雪の都エルランド - 港</name>
+  </location>
+  <location>
+    <id>513</id>
+    <name>城塞都市ジャド - 港</name>
+  </location>
+  <location>
+    <id>514</id>
+    <name>商業都市バイゼル - 屋内</name>
+  </location>
+  <location>
+    <id>515</id>
+    <name>雪の都エルランド - 屋内</name>
+  </location>
+  <location>
+    <id>516</id>
+    <name>商業都市バイゼル - 屋内</name>
+  </location>
+  <location>
+    <id>517</id>
+    <name>黄金の街道 - 砂浜付近</name>
+  </location>
+  <location>
+    <id>518</id>
+    <name>滝の洞窟</name>
+  </location>
+  <location>
+    <id>519</id>
+    <name>滝の洞窟</name>
+  </location>
+  <location>
+    <id>520</id>
+    <name>滝の洞窟</name>
+  </location>
+  <location>
+    <id>521</id>
+    <name>滝の洞窟</name>
+  </location>
+  <location>
+    <id>522</id>
+    <name>滝の洞窟</name>
+  </location>
+  <location>
+    <id>523</id>
+    <name>滝の洞窟</name>
+  </location>
+  <location>
+    <id>524</id>
+    <name>滝の洞窟</name>
+  </location>
+  <location>
+    <id>525</id>
+    <name>滝の洞窟 - ボス部屋</name>
+  </location>
+  <location>
+    <id>526</id>
+    <name>___城 屋内</name>
+  </location>
+  <location>
+    <id>527</id>
+    <name>灼熱の砂漠</name>
+  </location>
+  <location>
+    <id>528</id>
+    <name>灼熱の砂漠</name>
+  </location>
+  <location>
+    <id>529</id>
+    <name>灼熱の砂漠</name>
+  </location>
+  <location>
+    <id>530</id>
+    <name>灼熱の砂漠</name>
+  </location>
+  <location>
+    <id>531</id>
+    <name>灼熱の砂漠</name>
+  </location>
+  <location>
+    <id>532</id>
+    <name>雪の都エルランド - 屋内</name>
+  </location>
+  <location>
+    <id>533</id>
+    <name>灼熱の砂漠</name>
+  </location>
+  <location>
+    <id>534</id>
+    <name>灼熱の砂漠</name>
+  </location>
+  <location>
+    <id>535</id>
+    <name>灼熱の砂漠</name>
+  </location>
+  <location>
+    <id>536</id>
+    <name>灼熱の砂漠</name>
+  </location>
+  <location>
+    <id>537</id>
+    <name>灼熱の砂漠</name>
+  </location>
+  <location>
+    <id>538</id>
+    <name>灼熱の砂漠</name>
+  </location>
+  <location>
+    <id>539</id>
+    <name>灼熱の砂漠</name>
+  </location>
+  <location>
+    <id>540</id>
+    <name>灼熱の砂漠</name>
+  </location>
+  <location>
+    <id>541</id>
+    <name>灼熱の砂漠</name>
+  </location>
+  <location>
+    <id>542</id>
+    <name>灼熱の砂漠</name>
+  </location>
+  <location>
+    <id>543</id>
+    <name>灼熱の砂漠</name>
+  </location>
+  <location>
+    <id>544</id>
+    <name>零下の雪原</name>
+  </location>
+  <location>
+    <id>545</id>
+    <name>零下の雪原</name>
+  </location>
+  <location>
+    <id>546</id>
+    <name>零下の雪原</name>
+  </location>
+  <location>
+    <id>547</id>
+    <name>フラミー - ending cut scene</name>
+  </location>
+  <location>
+    <id>548</id>
+    <name>フラミー - ending cut scene</name>
+  </location>
+  <location>
+    <id>549</id>
+    <name>零下の雪原</name>
+  </location>
+  <location>
+    <id>550</id>
+    <name>零下の雪原</name>
+  </location>
+  <location>
+    <id>551</id>
+    <name>零下の雪原</name>
+  </location>
+  <location>
+    <id>552</id>
+    <name>零下の雪原</name>
+  </location>
+  <location>
+    <id>553</id>
+    <name>零下の雪原</name>
+  </location>
+  <location>
+    <id>554</id>
+    <name>零下の雪原</name>
+  </location>
+  <location>
+    <id>555</id>
+    <name>零下の雪原</name>
+  </location>
+  <location>
+    <id>556</id>
+    <name>零下の雪原</name>
+  </location>
+  <location>
+    <id>557</id>
+    <name>零下の雪原</name>
+  </location>
+  <location>
+    <id>558</id>
+    <name>零下の雪原</name>
+  </location>
+  <location>
+    <id>559</id>
+    <name>零下の雪原</name>
+  </location>
+  <location>
+    <id>560</id>
+    <name>灼熱の砂漠</name>
+  </location>
+  <location>
+    <id>561</id>
+    <name>大地の裂け目</name>
+  </location>
+  <location>
+    <id>562</id>
+    <name>灼熱の砂漠</name>
+  </location>
+  <location>
+    <id>563</id>
+    <name>灼熱の砂漠</name>
+  </location>
+  <location>
+    <id>564</id>
+    <name>灼熱の砂漠</name>
+  </location>
+  <location>
+    <id>565</id>
+    <name>灼熱の砂漠</name>
+  </location>
+  <location>
+    <id>566</id>
+    <name>灼熱の砂漠</name>
+  </location>
+  <location>
+    <id>567</id>
+    <name>灼熱の砂漠</name>
+  </location>
+  <location>
+    <id>568</id>
+    <name>大地の裂け目 - ドワーフのトンネル</name>
+  </location>
+  <location>
+    <id>569</id>
+    <name>月明りの都ミントス - エントランス</name>
+  </location>
+  <location>
+    <id>570</id>
+    <name>月明りの都ミントス - 砂浜</name>
+  </location>
+  <location>
+    <id>571</id>
+    <name>忘却の島 - 砂浜</name>
+  </location>
+  <location>
+    <id>572</id>
+    <name>零下の雪原</name>
+  </location>
+  <location>
+    <id>573</id>
+    <name>ドラゴンズホール - 東</name>
+  </location>
+  <location>
+    <id>574</id>
+    <name>ドラゴンズホール - 東</name>
+  </location>
+  <location>
+    <id>575</id>
+    <name>ドラゴンズホール - 東</name>
+  </location>
+  <location>
+    <id>576</id>
+    <name>ドラゴンズホール - 東</name>
+  </location>
+  <location>
+    <id>577</id>
+    <name>ドラゴンズホール - 東</name>
+  </location>
+  <location>
+    <id>578</id>
+    <name>零下の雪原</name>
+  </location>
+  <location>
+    <id>579</id>
+    <name>零下の雪原</name>
+  </location>
+  <location>
+    <id>580</id>
+    <name>火炎の谷 - 橋</name>
+  </location>
+  <location>
+    <id>581</id>
+    <name>零下の雪原</name>
+  </location>
+  <location>
+    <id>582</id>
+    <name>Holy City Mana</name>
+  </location>
+  <location>
+    <id>583</id>
+    <name>零下の雪原</name>
+  </location>
+  <location>
+    <id>584</id>
+    <name>零下の雪原</name>
+  </location>
+  <location>
+    <id>585</id>
+    <name>零下の雪原</name>
+  </location>
+  <location>
+    <id>586</id>
+    <name>零下の雪原</name>
+  </location>
+  <location>
+    <id>587</id>
+    <name>零下の雪原</name>
+  </location>
+  <location>
+    <id>588</id>
+    <name>ミラージュパレス - 南</name>
+  </location>
+  <location>
+    <id>589</id>
+    <name>___CASTLE SUN ROOM</name>
+  </location>
+  <location>
+    <id>590</id>
+    <name>零下の雪原</name>
+  </location>
+  <location>
+    <id>591</id>
+    <name>零下の雪原</name>
+  </location>
+  <location>
+    <id>592</id>
+    <name>零下の雪原</name>
+  </location>
+  <location>
+    <id>593</id>
+    <name>零下の雪原</name>
+  </location>
+  <location>
+    <id>594</id>
+    <name>零下の雪原</name>
+  </location>
+  <location>
+    <id>595</id>
+    <name>零下の雪原</name>
+  </location>
+  <location>
+    <id>596</id>
+    <name>ドワーフの村</name>
+  </location>
+  <location>
+    <id>597</id>
+    <name>___UNUSED</name>
+  </location>
+  <location>
+    <id>598</id>
+    <name>マナの聖域</name>
+  </location>
+  <location>
+    <id>599</id>
+    <name>マナの聖域</name>
+  </location>
+  <location>
+    <id>600</id>
+    <name>マナの聖域</name>
+  </location>
+  <location>
+    <id>601</id>
+    <name>マナの聖域</name>
+  </location>
+  <location>
+    <id>602</id>
+    <name>マナの聖域</name>
+  </location>
+  <location>
+    <id>603</id>
+    <name>マナの聖域</name>
+  </location>
+  <location>
+    <id>604</id>
+    <name>マナの聖域</name>
+  </location>
+  <location>
+    <id>605</id>
+    <name>マナの聖域</name>
+  </location>
+  <location>
+    <id>606</id>
+    <name>マナの聖域</name>
+  </location>
+  <location>
+    <id>607</id>
+    <name>マナの聖域</name>
+  </location>
+  <location>
+    <id>608</id>
+    <name>草原の王国フォルセナ 城 - 屋内</name>
+  </location>
+  <location>
+    <id>609</id>
+    <name>草原の王国フォルセナ 城 - 屋内</name>
+  </location>
+  <location>
+    <id>610</id>
+    <name>モールベアの高原</name>
+  </location>
+  <location>
+    <id>611</id>
+    <name>草原の王国フォルセナ - 屋内</name>
+  </location>
+  <location>
+    <id>612</id>
+    <name>草原の王国フォルセナ - 屋内</name>
+  </location>
+  <location>
+    <id>613</id>
+    <name>草原の王国フォルセナ - 屋内</name>
+  </location>
+  <location>
+    <id>614</id>
+    <name>草原の王国フォルセナ - 屋内</name>
+  </location>
+  <location>
+    <id>615</id>
+    <name>草原の王国フォルセナ - 屋内</name>
+  </location>
+  <location>
+    <id>616</id>
+    <name>草原の王国フォルセナ 城 - 屋内</name>
+  </location>
+  <location>
+    <id>617</id>
+    <name>大地の裂け目 - 洞窟</name>
+  </location>
+  <location>
+    <id>618</id>
+    <name>マナの聖域</name>
+  </location>
+  <location>
+    <id>619</id>
+    <name>マナの聖域</name>
+  </location>
+  <location>
+    <id>620</id>
+    <name>火山島ブッカ</name>
+  </location>
+  <location>
+    <id>621</id>
+    <name>火山島ブッカ</name>
+  </location>
+  <location>
+    <id>622</id>
+    <name>火山島ブッカ</name>
+  </location>
+  <location>
+    <id>623</id>
+    <name>火山島ブッカ</name>
+  </location>
+  <location>
+    <id>624</id>
+    <name>火山島ブッカ</name>
+  </location>
+  <location>
+    <id>625</id>
+    <name>火山島ブッカ</name>
+  </location>
+  <location>
+    <id>626</id>
+    <name>マナの聖域</name>
+  </location>
+  <location>
+    <id>627</id>
+    <name>マナの聖域</name>
+  </location>
+  <location>
+    <id>628</id>
+    <name>月読みの塔</name>
+  </location>
+  <location>
+    <id>629</id>
+    <name>月読みの塔</name>
+  </location>
+  <location>
+    <id>630</id>
+    <name>月読みの塔</name>
+  </location>
+  <location>
+    <id>631</id>
+    <name>月読みの塔</name>
+  </location>
+  <location>
+    <id>632</id>
+    <name>月読みの塔</name>
+  </location>
+  <location>
+    <id>633</id>
+    <name>月読みの塔</name>
+  </location>
+  <location>
+    <id>634</id>
+    <name>月読みの塔</name>
+  </location>
+  <location>
+    <id>635</id>
+    <name>火山島ブッカ</name>
+  </location>
+  <location>
+    <id>636</id>
+    <name>月読みの塔</name>
+  </location>
+  <location>
+    <id>637</id>
+    <name>月読みの塔</name>
+  </location>
+  <location>
+    <id>638</id>
+    <name>月読みの塔</name>
+  </location>
+  <location>
+    <id>639</id>
+    <name>月読みの塔</name>
+  </location>
+  <location>
+    <id>640</id>
+    <name>月読みの塔</name>
+  </location>
+  <location>
+    <id>641</id>
+    <name>月読みの塔</name>
+  </location>
+  <location>
+    <id>642</id>
+    <name>月読みの塔</name>
+  </location>
+  <location>
+    <id>643</id>
+    <name>月読みの塔</name>
+  </location>
+  <location>
+    <id>644</id>
+    <name>ランプ花の森</name>
+  </location>
+  <location>
+    <id>645</id>
+    <name>ランプ花の森</name>
+  </location>
+  <location>
+    <id>646</id>
+    <name>ランプ花の森</name>
+  </location>
+  <location>
+    <id>647</id>
+    <name>ランプ花の森</name>
+  </location>
+  <location>
+    <id>648</id>
+    <name>ランプ花の森</name>
+  </location>
+  <location>
+    <id>649</id>
+    <name>ランプ花の森</name>
+  </location>
+  <location>
+    <id>650</id>
+    <name>モールベアの高原 - rock cliffs</name>
+  </location>
+  <location>
+    <id>651</id>
+    <name>草原の王国フォルセナ 城 - 屋内</name>
+  </location>
+  <location>
+    <id>652</id>
+    <name>火山島ブッカ - 北</name>
+  </location>
+  <location>
+    <id>653</id>
+    <name>火山島ブッカ - 北</name>
+  </location>
+  <location>
+    <id>654</id>
+    <name>火山島ブッカ - 北</name>
+  </location>
+  <location>
+    <id>655</id>
+    <name>火山島ブッカ - 北</name>
+  </location>
+  <location>
+    <id>656</id>
+    <name>花畑の国ディオール - 屋内</name>
+  </location>
+  <location>
+    <id>657</id>
+    <name>火山島ブッカ - 北</name>
+  </location>
+  <location>
+    <id>658</id>
+    <name>火山島ブッカ - 北</name>
+  </location>
+  <location>
+    <id>659</id>
+    <name>火山島ブッカ - 北</name>
+  </location>
+  <location>
+    <id>660</id>
+    <name>花畑の国ディオール - 屋内</name>
+  </location>
+  <location>
+    <id>661</id>
+    <name>花畑の国ディオール - 屋内</name>
+  </location>
+  <location>
+    <id>662</id>
+    <name>ランプ花の森</name>
+  </location>
+  <location>
+    <id>663</id>
+    <name>ランプ花の森</name>
+  </location>
+  <location>
+    <id>664</id>
+    <name>ランプ花の森</name>
+  </location>
+  <location>
+    <id>665</id>
+    <name>ランプ花の森</name>
+  </location>
+  <location>
+    <id>666</id>
+    <name>ランプ花の森</name>
+  </location>
+  <location>
+    <id>667</id>
+    <name>ランプ花の森</name>
+  </location>
+  <location>
+    <id>668</id>
+    <name>ランプ花の森</name>
+  </location>
+  <location>
+    <id>669</id>
+    <name>ランプ花の森</name>
+  </location>
+  <location>
+    <id>670</id>
+    <name>ランプ花の森</name>
+  </location>
+  <location>
+    <id>671</id>
+    <name>ランプ花の森</name>
+  </location>
+  <location>
+    <id>672</id>
+    <name>ランプ花の森</name>
+  </location>
+  <location>
+    <id>673</id>
+    <name>ランプ花の森</name>
+  </location>
+  <location>
+    <id>674</id>
+    <name>花畑の国ディオール - 屋外</name>
+  </location>
+  <location>
+    <id>675</id>
+    <name>花畑の国ディオール - 屋内</name>
+  </location>
+  <location>
+    <id>676</id>
+    <name>火山島ブッカ - 村</name>
+  </location>
+  <location>
+    <id>677</id>
+    <name>月明りの森</name>
+  </location>
+  <location>
+    <id>678</id>
+    <name>月明りの森</name>
+  </location>
+  <location>
+    <id>679</id>
+    <name>月明りの森</name>
+  </location>
+  <location>
+    <id>680</id>
+    <name>月明りの森</name>
+  </location>
+  <location>
+    <id>681</id>
+    <name>月明りの森</name>
+  </location>
+  <location>
+    <id>682</id>
+    <name>月明りの森</name>
+  </location>
+  <location>
+    <id>683</id>
+    <name>月明りの森</name>
+  </location>
+  <location>
+    <id>684</id>
+    <name>月明りの森</name>
+  </location>
+  <location>
+    <id>685</id>
+    <name>月明りの森</name>
+  </location>
+  <location>
+    <id>686</id>
+    <name>月明りの森</name>
+  </location>
+  <location>
+    <id>687</id>
+    <name>月明りの森</name>
+  </location>
+  <location>
+    <id>688</id>
+    <name>月明りの森</name>
+  </location>
+  <location>
+    <id>689</id>
+    <name>月明りの森</name>
+  </location>
+  <location>
+    <id>690</id>
+    <name>月明りの森</name>
+  </location>
+  <location>
+    <id>691</id>
+    <name>月明りの森</name>
+  </location>
+  <location>
+    <id>692</id>
+    <name>月明りの森</name>
+  </location>
+  <location>
+    <id>693</id>
+    <name>月明りの森</name>
+  </location>
+  <location>
+    <id>694</id>
+    <name>月明りの森</name>
+  </location>
+  <location>
+    <id>695</id>
+    <name>月明りの森</name>
+  </location>
+  <location>
+    <id>696</id>
+    <name>月明りの森</name>
+  </location>
+  <location>
+    <id>697</id>
+    <name>月明りの森</name>
+  </location>
+  <location>
+    <id>698</id>
+    <name>月明りの森</name>
+  </location>
+  <location>
+    <id>699</id>
+    <name>月明りの森</name>
+  </location>
+  <location>
+    <id>700</id>
+    <name>風の回廊 - ボス部屋</name>
+  </location>
+  <location>
+    <id>701</id>
+    <name>デバッグルーム 2</name>
+  </location>
+  <location>
+    <id>702</id>
+    <name>ダークキャッスル - 北</name>
+  </location>
+  <location>
+    <id>703</id>
+    <name>ダークキャッスル - 北</name>
+  </location>
+  <location>
+    <id>704</id>
+    <name>ダークキャッスル - 北</name>
+  </location>
+  <location>
+    <id>705</id>
+    <name>ダークキャッスル - 北</name>
+  </location>
+  <location>
+    <id>706</id>
+    <name>ダークキャッスル - 北</name>
+  </location>
+  <location>
+    <id>707</id>
+    <name>ダークキャッスル - 北</name>
+  </location>
+  <location>
+    <id>708</id>
+    <name>ダークキャッスル - 北</name>
+  </location>
+  <location>
+    <id>709</id>
+    <name>ダークキャッスル - 北</name>
+  </location>
+  <location>
+    <id>710</id>
+    <name>ダークキャッスル - 北</name>
+  </location>
+  <location>
+    <id>711</id>
+    <name>ダークキャッスル - 北</name>
+  </location>
+  <location>
+    <id>712</id>
+    <name>ダークキャッスル - 北</name>
+  </location>
+  <location>
+    <id>713</id>
+    <name>ダークキャッスル - 北</name>
+  </location>
+  <location>
+    <id>714</id>
+    <name>ダークキャッスル - 南</name>
+  </location>
+  <location>
+    <id>715</id>
+    <name>ダークキャッスル - 南</name>
+  </location>
+  <location>
+    <id>716</id>
+    <name>ダークキャッスル - 南</name>
+  </location>
+  <location>
+    <id>717</id>
+    <name>ダークキャッスル - 南</name>
+  </location>
+  <location>
+    <id>718</id>
+    <name>ダークキャッスル - 南</name>
+  </location>
+  <location>
+    <id>719</id>
+    <name>ダークキャッスル - 南</name>
+  </location>
+  <location>
+    <id>720</id>
+    <name>ダークキャッスル - 南</name>
+  </location>
+  <location>
+    <id>721</id>
+    <name>ダークキャッスル - 南</name>
+  </location>
+  <location>
+    <id>722</id>
+    <name>ダークキャッスル - 南</name>
+  </location>
+  <location>
+    <id>723</id>
+    <name>ダークキャッスル - 南</name>
+  </location>
+  <location>
+    <id>724</id>
+    <name>ダークキャッスル - 南</name>
+  </location>
+  <location>
+    <id>725</id>
+    <name>ダークキャッスル - 南</name>
+  </location>
+  <location>
+    <id>726</id>
+    <name>ダークキャッスル - 南</name>
+  </location>
+  <location>
+    <id>727</id>
+    <name>ダークキャッスル - 南</name>
+  </location>
+  <location>
+    <id>728</id>
+    <name>ダークキャッスル - 南</name>
+  </location>
+  <location>
+    <id>729</id>
+    <name>ダークキャッスル - 南</name>
+  </location>
+  <location>
+    <id>730</id>
+    <name>ダークキャッスル - 南</name>
+  </location>
+  <location>
+    <id>731</id>
+    <name>ダークキャッスル - 南</name>
+  </location>
+  <location>
+    <id>732</id>
+    <name>ダークキャッスル - 南</name>
+  </location>
+  <location>
+    <id>733</id>
+    <name>ダークキャッスル - 南</name>
+  </location>
+  <location>
+    <id>734</id>
+    <name>ダークキャッスル - 南</name>
+  </location>
+  <location>
+    <id>735</id>
+    <name>ダークキャッスル - 南</name>
+  </location>
+  <location>
+    <id>736</id>
+    <name>___城 屋内</name>
+  </location>
+  <location>
+    <id>737</id>
+    <name>暗闇の洞窟</name>
+  </location>
+  <location>
+    <id>738</id>
+    <name>暗闇の洞窟</name>
+  </location>
+  <location>
+    <id>739</id>
+    <name>光の古代遺跡</name>
+  </location>
+  <location>
+    <id>740</id>
+    <name>暗闇の洞窟</name>
+  </location>
+  <location>
+    <id>741</id>
+    <name>暗闇の洞窟</name>
+  </location>
+  <location>
+    <id>742</id>
+    <name>暗闇の洞窟</name>
+  </location>
+  <location>
+    <id>743</id>
+    <name>暗闇の洞窟</name>
+  </location>
+  <location>
+    <id>744</id>
+    <name>光の古代遺跡</name>
+  </location>
+  <location>
+    <id>745</id>
+    <name>暗闇の洞窟</name>
+  </location>
+  <location>
+    <id>746</id>
+    <name>暗闇の洞窟</name>
+  </location>
+  <location>
+    <id>747</id>
+    <name>暗闇の洞窟 - ボス部屋</name>
+  </location>
+  <location>
+    <id>748</id>
+    <name>暗闇の洞窟</name>
+  </location>
+  <location>
+    <id>749</id>
+    <name>暗闇の洞窟</name>
+  </location>
+  <location>
+    <id>750</id>
+    <name>___城 屋内</name>
+  </location>
+  <location>
+    <id>751</id>
+    <name>月読みの塔</name>
+  </location>
+  <location>
+    <id>752</id>
+    <name>月読みの塔</name>
+  </location>
+  <location>
+    <id>753</id>
+    <name>月読みの塔</name>
+  </location>
+  <location>
+    <id>754</id>
+    <name>暗闇の洞窟</name>
+  </location>
+  <location>
+    <id>755</id>
+    <name>火山島ブッカ</name>
+  </location>
+  <location>
+    <id>756</id>
+    <name>月読みの塔</name>
+  </location>
+  <location>
+    <id>757</id>
+    <name>月読みの塔</name>
+  </location>
+  <location>
+    <id>758</id>
+    <name>暗闇の洞窟</name>
+  </location>
+  <location>
+    <id>759</id>
+    <name>___城 屋内</name>
+  </location>
+  <location>
+    <id>760</id>
+    <name>月読みの塔</name>
+  </location>
+  <location>
+    <id>761</id>
+    <name>月読みの塔</name>
+  </location>
+  <location>
+    <id>762</id>
+    <name>月読みの塔</name>
+  </location>
+  <location>
+    <id>763</id>
+    <name>月読みの塔</name>
+  </location>
+  <location>
+    <id>764</id>
+    <name>月読みの塔</name>
+  </location>
+  <location>
+    <id>765</id>
+    <name>月読みの塔</name>
+  </location>
+  <location>
+    <id>766</id>
+    <name>月読みの塔</name>
+  </location>
+  <location>
+    <id>767</id>
+    <name>月読みの塔</name>
+  </location>
+  <location>
+    <id>768</id>
+    <name>草原の王国フォルセナ</name>
+  </location>
+  <location>
+    <id>769</id>
+    <name>ビーストキングダム 城 - 屋内</name>
+  </location>
+  <location>
+    <id>770</id>
+    <name>ビーストキングダム 城 - 屋外</name>
+  </location>
+  <location>
+    <id>771</id>
+    <name>月明りの森</name>
+  </location>
+  <location>
+    <id>772</id>
+    <name>オアシスの村ディーン - 屋外</name>
+  </location>
+  <location>
+    <id>773</id>
+    <name>砂の要塞ナバール - 屋内</name>
+  </location>
+  <location>
+    <id>774</id>
+    <name>砂の要塞ナバール - 屋外</name>
+  </location>
+  <location>
+    <id>775</id>
+    <name>魔法王国アルテナ 城 - 屋内</name>
+  </location>
+  <location>
+    <id>776</id>
+    <name>魔法王国アルテナ 城 - 屋外</name>
+  </location>
+  <location>
+    <id>777</id>
+    <name>光の神殿 - エントランス</name>
+  </location>
+  <location>
+    <id>778</id>
+    <name>光の神殿 - エントランス</name>
+  </location>
+  <location>
+    <id>779</id>
+    <name>風の王国ローラント - 屋外</name>
+  </location>
+  <location>
+    <id>780</id>
+    <name>Summit of the Peaks - summit</name>
+  </location>
+  <location>
+    <id>781</id>
+    <name>魔法王国アルテナ</name>
+  </location>
+  <location>
+    <id>782</id>
+    <name>灼熱の砂漠</name>
+  </location>
+  <location>
+    <id>783</id>
+    <name>灼熱の砂漠</name>
+  </location>
+  <location>
+    <id>784</id>
+    <name>月読みの塔 - 空き部屋</name>
+  </location>
+  <location>
+    <id>785</id>
+    <name>月読みの塔 - 空き部屋</name>
+  </location>
+  <location>
+    <id>786</id>
+    <name>月読みの塔 - 空き部屋</name>
+  </location>
+  <location>
+    <id>787</id>
+    <name>___BLANK</name>
+  </location>
+  <location>
+    <id>788</id>
+    <name>暗闇の洞窟 - 西ern cliff</name>
+  </location>
+  <location>
+    <id>789</id>
+    <name>月読みの塔 - 空き部屋</name>
+  </location>
+  <location>
+    <id>790</id>
+    <name>暗闇の洞窟</name>
+  </location>
+  <location>
+    <id>791</id>
+    <name>暗闇の洞窟</name>
+  </location>
+  <location>
+    <id>792</id>
+    <name>暗闇の洞窟</name>
+  </location>
+  <location>
+    <id>793</id>
+    <name>月読みの塔 - 空き部屋</name>
+  </location>
+  <location>
+    <id>794</id>
+    <name>暗闇の洞窟</name>
+  </location>
+  <location>
+    <id>795</id>
+    <name>暗闇の洞窟</name>
+  </location>
+  <location>
+    <id>796</id>
+    <name>暗闇の洞窟</name>
+  </location>
+  <location>
+    <id>797</id>
+    <name>暗闇の洞窟</name>
+  </location>
+  <location>
+    <id>798</id>
+    <name>月読みの塔 - 空き部屋</name>
+  </location>
+  <location>
+    <id>799</id>
+    <name>暗闇の洞窟</name>
+  </location>
+  <location>
+    <id>800</id>
+    <name>月読みの塔</name>
+  </location>
+  <location>
+    <id>801</id>
+    <name>暗闇の洞窟</name>
+  </location>
+  <location>
+    <id>802</id>
+    <name>暗闇の洞窟</name>
+  </location>
+  <location>
+    <id>803</id>
+    <name>暗闇の洞窟</name>
+  </location>
+  <location>
+    <id>804</id>
+    <name>___城 SUN ROOM</name>
+  </location>
+  <location>
+    <id>805</id>
+    <name>月読みの塔 - 空き部屋</name>
+  </location>
+  <location>
+    <id>806</id>
+    <name>城塞都市ジャド - 屋内</name>
+  </location>
+  <location>
+    <id>807</id>
+    <name>月読みの塔 - 空き部屋</name>
+  </location>
+  <location>
+    <id>808</id>
+    <name>城塞都市ジャド - 屋内</name>
+  </location>
+  <location>
+    <id>809</id>
+    <name>___UNUSED</name>
+  </location>
+  <location>
+    <id>810</id>
+    <name>___UNUSED</name>
+  </location>
+  <location>
+    <id>811</id>
+    <name>城塞都市ジャド - 屋内</name>
+  </location>
+  <location>
+    <id>812</id>
+    <name>月読みの塔 - 空き部屋</name>
+  </location>
+  <location>
+    <id>813</id>
+    <name>花畑の国ディオール - 屋内</name>
+  </location>
+  <location>
+    <id>814</id>
+    <name>城塞都市ジャド - 屋内</name>
+  </location>
+  <location>
+    <id>815</id>
+    <name>ダークキャッスル</name>
+  </location>
+  <location>
+    <id>816</id>
+    <name>ダークキャッスル</name>
+  </location>
+  <location>
+    <id>817</id>
+    <name>ダークキャッスル</name>
+  </location>
+  <location>
+    <id>818</id>
+    <name>ダークキャッスル</name>
+  </location>
+  <location>
+    <id>819</id>
+    <name>ダークキャッスル</name>
+  </location>
+  <location>
+    <id>820</id>
+    <name>月読みの塔 - 空き部屋</name>
+  </location>
+  <location>
+    <id>821</id>
+    <name>___BLANK</name>
+  </location>
+  <location>
+    <id>822</id>
+    <name>月読みの塔 - 空き部屋</name>
+  </location>
+  <location>
+    <id>823</id>
+    <name>月読みの塔 - 空き部屋</name>
+  </location>
+  <location>
+    <id>824</id>
+    <name>ダークキャッスル - 屋上</name>
+  </location>
+  <location>
+    <id>825</id>
+    <name>ダークキャッスル - 屋上</name>
+  </location>
+  <location>
+    <id>826</id>
+    <name>ダークキャッスル - 屋上</name>
+  </location>
+  <location>
+    <id>827</id>
+    <name>ダークキャッスル - 屋上</name>
+  </location>
+  <location>
+    <id>828</id>
+    <name>月読みの塔 - 空き部屋</name>
+  </location>
+  <location>
+    <id>829</id>
+    <name>月読みの塔 - 空き部屋</name>
+  </location>
+  <location>
+    <id>830</id>
+    <name>ダークキャッスル - エントランス</name>
+  </location>
+  <location>
+    <id>831</id>
+    <name>ドラゴンズホール - エントランス</name>
+  </location>
+  <location>
+    <id>832</id>
+    <name>マナの聖域</name>
+  </location>
+  <location>
+    <id>833</id>
+    <name>ゼーブルファー</name>
+  </location>
+  <location>
+    <id>834</id>
+    <name>商業都市バイゼル - 北 エントランス</name>
+  </location>
+  <location>
+    <id>835</id>
+    <name>風の王国ローラント 城 - 屋内</name>
+  </location>
+  <location>
+    <id>836</id>
+    <name>月読みの塔</name>
+  </location>
+  <location>
+    <id>837</id>
+    <name>月読みの塔 - 空き部屋</name>
+  </location>
+  <location>
+    <id>838</id>
+    <name>商業都市バイゼル</name>
+  </location>
+  <location>
+    <id>839</id>
+    <name>幻惑のジャングル</name>
+  </location>
+  <location>
+    <id>840</id>
+    <name>幻惑のジャングル</name>
+  </location>
+  <location>
+    <id>841</id>
+    <name>月読みの塔 - 空き部屋</name>
+  </location>
+  <location>
+    <id>842</id>
+    <name>幻惑のジャングル</name>
+  </location>
+  <location>
+    <id>843</id>
+    <name>幻惑のジャングル</name>
+  </location>
+  <location>
+    <id>844</id>
+    <name>月読みの塔 - 空き部屋</name>
+  </location>
+  <location>
+    <id>845</id>
+    <name>ビーストキングダム 城 - 屋外</name>
+  </location>
+  <location>
+    <id>846</id>
+    <name>ビーストキングダム 城 - 屋外</name>
+  </location>
+  <location>
+    <id>847</id>
+    <name>ビーストキングダム 城 - 屋外</name>
+  </location>
+  <location>
+    <id>848</id>
+    <name>古の都ペダン - 東</name>
+  </location>
+  <location>
+    <id>849</id>
+    <name>ダークキャッスル - 屋内</name>
+  </location>
+  <location>
+    <id>850</id>
+    <name>ミラージュパレス - エントランス gate</name>
+  </location>
+  <location>
+    <id>851</id>
+    <name>ミラージュパレス - 橋</name>
+  </location>
+  <location>
+    <id>852</id>
+    <name>ミラージュパレス - 屋内</name>
+  </location>
+  <location>
+    <id>853</id>
+    <name>ミラージュパレス - courtyard</name>
+  </location>
+  <location>
+    <id>854</id>
+    <name>ミラージュパレス - 北 gate</name>
+  </location>
+  <location>
+    <id>855</id>
+    <name>ミラージュパレス - front yard</name>
+  </location>
+  <location>
+    <id>856</id>
+    <name>ミラージュパレス - 西 wall</name>
+  </location>
+  <location>
+    <id>857</id>
+    <name>ミラージュパレス - 東 wall</name>
+  </location>
+  <location>
+    <id>858</id>
+    <name>ミラージュパレス - back wall</name>
+  </location>
+  <location>
+    <id>859</id>
+    <name>デバッグルーム 3</name>
+  </location>
+  <location>
+    <id>860</id>
+    <name>幻惑のジャングル</name>
+  </location>
+  <location>
+    <id>861</id>
+    <name>幻惑のジャングル</name>
+  </location>
+  <location>
+    <id>862</id>
+    <name>幻惑のジャングル</name>
+  </location>
+  <location>
+    <id>863</id>
+    <name>幻惑のジャングル</name>
+  </location>
+  <location>
+    <id>864</id>
+    <name>幻惑のジャングル</name>
+  </location>
+  <location>
+    <id>865</id>
+    <name>幻惑のジャングル</name>
+  </location>
+  <location>
+    <id>866</id>
+    <name>幻惑のジャングル</name>
+  </location>
+  <location>
+    <id>867</id>
+    <name>幻惑のジャングル</name>
+  </location>
+  <location>
+    <id>868</id>
+    <name>幻惑のジャングル</name>
+  </location>
+  <location>
+    <id>869</id>
+    <name>幻惑のジャングル</name>
+  </location>
+  <location>
+    <id>870</id>
+    <name>幻惑のジャングル</name>
+  </location>
+  <location>
+    <id>871</id>
+    <name>幻惑のジャングル</name>
+  </location>
+  <location>
+    <id>872</id>
+    <name>幻惑のジャングル</name>
+  </location>
+  <location>
+    <id>873</id>
+    <name>幻惑のジャングル</name>
+  </location>
+  <location>
+    <id>874</id>
+    <name>幻惑のジャングル</name>
+  </location>
+  <location>
+    <id>875</id>
+    <name>幻惑のジャングル</name>
+  </location>
+  <location>
+    <id>876</id>
+    <name>幻惑のジャングル</name>
+  </location>
+  <location>
+    <id>877</id>
+    <name>幻惑のジャングル</name>
+  </location>
+  <location>
+    <id>878</id>
+    <name>幻惑のジャングル</name>
+  </location>
+  <location>
+    <id>879</id>
+    <name>幻惑のジャングル</name>
+  </location>
+  <location>
+    <id>880</id>
+    <name>幻惑のジャングル</name>
+  </location>
+  <location>
+    <id>881</id>
+    <name>幻惑のジャングル</name>
+  </location>
+  <location>
+    <id>882</id>
+    <name>幻惑のジャングル</name>
+  </location>
+  <location>
+    <id>883</id>
+    <name>幻惑のジャングル</name>
+  </location>
+  <location>
+    <id>884</id>
+    <name>ダークキャッスル - Genova</name>
+  </location>
+  <location>
+    <id>885</id>
+    <name>ダークキャッスル - dungeon</name>
+  </location>
+  <location>
+    <id>886</id>
+    <name>ミラージュパレス - back terrace</name>
+  </location>
+  <location>
+    <id>887</id>
+    <name>風の王国ローラント 城 - inside</name>
+  </location>
+  <location>
+    <id>888</id>
+    <name>風の王国ローラント 城 - inside</name>
+  </location>
+  <location>
+    <id>889</id>
+    <name>風の王国ローラント 城 - inside</name>
+  </location>
+  <location>
+    <id>890</id>
+    <name>風の王国ローラント 城 - inside</name>
+  </location>
+  <location>
+    <id>891</id>
+    <name>風の王国ローラント 城 - inside</name>
+  </location>
+  <location>
+    <id>892</id>
+    <name>風の王国ローラント 城 - inside</name>
+  </location>
+  <location>
+    <id>893</id>
+    <name>風の王国ローラント 城 - inside</name>
+  </location>
+  <location>
+    <id>894</id>
+    <name>風の王国ローラント 城 - inside</name>
+  </location>
+  <location>
+    <id>895</id>
+    <name>風の王国ローラント 城 - inside</name>
+  </location>
+  <location>
+    <id>896</id>
+    <name>風の王国ローラント 城 - inside</name>
+  </location>
+  <location>
+    <id>897</id>
+    <name>風の王国ローラント 城 - inside</name>
+  </location>
+  <location>
+    <id>898</id>
+    <name>風の王国ローラント 城 - inside</name>
+  </location>
+  <location>
+    <id>899</id>
+    <name>風の王国ローラント 城 - inside</name>
+  </location>
+  <location>
+    <id>900</id>
+    <name>風の王国ローラント 城 - inside</name>
+  </location>
+  <location>
+    <id>901</id>
+    <name>月読みの塔 - 空き部屋</name>
+  </location>
+  <location>
+    <id>902</id>
+    <name>月読みの塔 - 空き部屋</name>
+  </location>
+  <location>
+    <id>903</id>
+    <name>花畑の国ディオール - 屋内</name>
+  </location>
+  <location>
+    <id>904</id>
+    <name>花畑の国ディオール - 屋内</name>
+  </location>
+  <location>
+    <id>905</id>
+    <name>氷壁の迷宮</name>
+  </location>
+  <location>
+    <id>906</id>
+    <name>___城 屋内</name>
+  </location>
+  <location>
+    <id>907</id>
+    <name>月読みの塔 - 北 balcony</name>
+  </location>
+  <location>
+    <id>908</id>
+    <name>___INCOMPLETE 火炎の谷 - ボス部屋</name>
+  </location>
+  <location>
+    <id>909</id>
+    <name>幽霊船 - quarters</name>
+  </location>
+  <location>
+    <id>910</id>
+    <name>幽霊船 - quarters</name>
+  </location>
+  <location>
+    <id>911</id>
+    <name>幽霊船 - quarters</name>
+  </location>
+  <location>
+    <id>912</id>
+    <name>幽霊船 - quarters</name>
+  </location>
+  <location>
+    <id>913</id>
+    <name>幽霊船 - quarters</name>
+  </location>
+  <location>
+    <id>914</id>
+    <name>幽霊船 - quarters</name>
+  </location>
+  <location>
+    <id>915</id>
+    <name>幽霊船 - quarters</name>
+  </location>
+  <location>
+    <id>916</id>
+    <name>幽霊船 - quarters</name>
+  </location>
+  <location>
+    <id>917</id>
+    <name>幽霊船 - quarters</name>
+  </location>
+  <location>
+    <id>918</id>
+    <name>幽霊船 - quarters</name>
+  </location>
+  <location>
+    <id>919</id>
+    <name>砂の都サルタン - 砂浜</name>
+  </location>
+  <location>
+    <id>920</id>
+    <name>湖畔の村アストリア</name>
+  </location>
+  <location>
+    <id>921</id>
+    <name>Dark Lich Background</name>
+  </location>
+  <location>
+    <id>922</id>
+    <name>岸辺の洞窟 - 北</name>
+  </location>
+  <location>
+    <id>923</id>
+    <name>岸辺の洞窟 - 北</name>
+  </location>
+  <location>
+    <id>924</id>
+    <name>岸辺の洞窟 - 北</name>
+  </location>
+  <location>
+    <id>925</id>
+    <name>岸辺の洞窟 - 北</name>
+  </location>
+  <location>
+    <id>926</id>
+    <name>岸辺の洞窟 - 北</name>
+  </location>
+  <location>
+    <id>927</id>
+    <name>岸辺の洞窟 - 北</name>
+  </location>
+  <location>
+    <id>928</id>
+    <name>岸辺の洞窟 - 北</name>
+  </location>
+  <location>
+    <id>929</id>
+    <name>岸辺の洞窟 - 北</name>
+  </location>
+  <location>
+    <id>930</id>
+    <name>岸辺の洞窟 - 北</name>
+  </location>
+  <location>
+    <id>931</id>
+    <name>岸辺の洞窟 - 北</name>
+  </location>
+  <location>
+    <id>932</id>
+    <name>岸辺の洞窟 - 北</name>
+  </location>
+  <location>
+    <id>933</id>
+    <name>岸辺の洞窟 - 北</name>
+  </location>
+  <location>
+    <id>934</id>
+    <name>ワンダーの森 - ボス部屋</name>
+  </location>
+  <location>
+    <id>935</id>
+    <name>岸辺の洞窟 - 北</name>
+  </location>
+  <location>
+    <id>936</id>
+    <name>幽霊船 - quarters</name>
+  </location>
+  <location>
+    <id>937</id>
+    <name>幽霊船 - quarters</name>
+  </location>
+  <location>
+    <id>938</id>
+    <name>幽霊船 - quarters</name>
+  </location>
+  <location>
+    <id>939</id>
+    <name>幽霊船 - quarters</name>
+  </location>
+  <location>
+    <id>940</id>
+    <name>幽霊船 - quarters</name>
+  </location>
+  <location>
+    <id>941</id>
+    <name>ガラスの砂漠</name>
+  </location>
+  <location>
+    <id>942</id>
+    <name>ガラスの砂漠</name>
+  </location>
+  <location>
+    <id>943</id>
+    <name>岸辺の洞窟 - 北</name>
+  </location>
+  <location>
+    <id>944</id>
+    <name>岸辺の洞窟 - 北</name>
+  </location>
+  <location>
+    <id>945</id>
+    <name>ガラスの砂漠</name>
+  </location>
+  <location>
+    <id>946</id>
+    <name>ガラスの砂漠</name>
+  </location>
+  <location>
+    <id>947</id>
+    <name>ガラスの砂漠</name>
+  </location>
+  <location>
+    <id>948</id>
+    <name>ガラスの砂漠</name>
+  </location>
+  <location>
+    <id>949</id>
+    <name>ガラスの砂漠</name>
+  </location>
+  <location>
+    <id>950</id>
+    <name>岸辺の洞窟 - 北</name>
+  </location>
+  <location>
+    <id>951</id>
+    <name>岸辺の洞窟 - 北</name>
+  </location>
+  <location>
+    <id>952</id>
+    <name>岸辺の洞窟 - 北</name>
+  </location>
+  <location>
+    <id>953</id>
+    <name>岸辺の洞窟 - 北</name>
+  </location>
+  <location>
+    <id>954</id>
+    <name>岸辺の洞窟 - 北</name>
+  </location>
+  <location>
+    <id>955</id>
+    <name>岸辺の洞窟 - 北</name>
+  </location>
+  <location>
+    <id>956</id>
+    <name>___UNUSED - with some enemies</name>
+  </location>
+  <location>
+    <id>957</id>
+    <name>___UNUSED - with some enemies</name>
+  </location>
+  <location>
+    <id>958</id>
+    <name>ワンダーの森 - 洞窟</name>
+  </location>
+  <location>
+    <id>959</id>
+    <name>ワンダーの森</name>
+  </location>
+  <location>
+    <id>960</id>
+    <name>ワンダーの森</name>
+  </location>
+  <location>
+    <id>961</id>
+    <name>ワンダーの森</name>
+  </location>
+  <location>
+    <id>962</id>
+    <name>ワンダーの森 - 洞窟</name>
+  </location>
+  <location>
+    <id>963</id>
+    <name>ワンダーの森</name>
+  </location>
+  <location>
+    <id>964</id>
+    <name>ワンダーの森</name>
+  </location>
+  <location>
+    <id>965</id>
+    <name>ワンダーの森</name>
+  </location>
+  <location>
+    <id>966</id>
+    <name>ガラスの砂漠</name>
+  </location>
+  <location>
+    <id>967</id>
+    <name>ワンダーの森</name>
+  </location>
+  <location>
+    <id>968</id>
+    <name>ワンダーの森</name>
+  </location>
+  <location>
+    <id>969</id>
+    <name>ワンダーの森</name>
+  </location>
+  <location>
+    <id>970</id>
+    <name>ワンダーの森</name>
+  </location>
+  <location>
+    <id>971</id>
+    <name>ワンダーの森</name>
+  </location>
+  <location>
+    <id>972</id>
+    <name>ワンダーの森</name>
+  </location>
+  <location>
+    <id>973</id>
+    <name>ワンダーの森</name>
+  </location>
+  <location>
+    <id>974</id>
+    <name>ワンダーの森 - 洞窟</name>
+  </location>
+  <location>
+    <id>975</id>
+    <name>ワンダーの森</name>
+  </location>
+  <location>
+    <id>976</id>
+    <name>ワンダーの森</name>
+  </location>
+  <location>
+    <id>977</id>
+    <name>ワンダーの森</name>
+  </location>
+  <location>
+    <id>978</id>
+    <name>ワンダーの森</name>
+  </location>
+  <location>
+    <id>979</id>
+    <name>___EMPTY HOUSE - with Koren boss</name>
+  </location>
+  <location>
+    <id>980</id>
+    <name>___EMPTY HOUSE - with Deathjester boss</name>
+  </location>
+  <location>
+    <id>981</id>
+    <name>___EMPTY HOUSE - with Jagan boss</name>
+  </location>
+  <location>
+    <id>982</id>
+    <name>___EMPTY HOUSE - with Bigieu boss</name>
+  </location>
+  <location>
+    <id>983</id>
+    <name>___EMPTY HOUSE - with Darkshine Night boss</name>
+  </location>
+  <location>
+    <id>984</id>
+    <name>___EMPTY HOUSE - with Heath boss</name>
+  </location>
+  <location>
+    <id>985</id>
+    <name>___EMPTY HOUSE - with Lugar boss</name>
+  </location>
+  <location>
+    <id>986</id>
+    <name>___EMPTY HOUSE - with Bill or Ben</name>
+  </location>
+  <location>
+    <id>987</id>
+    <name>商業都市バイゼル - chemist&#x27;s</name>
+  </location>
+  <location>
+    <id>988</id>
+    <name>岸辺の洞窟 - 南</name>
+  </location>
+  <location>
+    <id>989</id>
+    <name>岸辺の洞窟 - 南</name>
+  </location>
+  <location>
+    <id>990</id>
+    <name>岸辺の洞窟 - 南</name>
+  </location>
+  <location>
+    <id>991</id>
+    <name>岸辺の洞窟 - 南</name>
+  </location>
+  <location>
+    <id>992</id>
+    <name>岸辺の洞窟 - 南</name>
+  </location>
+  <location>
+    <id>993</id>
+    <name>岸辺の洞窟 - 南</name>
+  </location>
+  <location>
+    <id>994</id>
+    <name>岸辺の洞窟 - 南</name>
+  </location>
+  <location>
+    <id>995</id>
+    <name>岸辺の洞窟 - 南</name>
+  </location>
+  <location>
+    <id>996</id>
+    <name>岸辺の洞窟 - 南</name>
+  </location>
+  <location>
+    <id>997</id>
+    <name>岸辺の洞窟 - 南</name>
+  </location>
+  <location>
+    <id>998</id>
+    <name>岸辺の洞窟 - 南</name>
+  </location>
+  <location>
+    <id>999</id>
+    <name>岸辺の洞窟 - 南</name>
+  </location>
+  <location>
+    <id>1000</id>
+    <name>岸辺の洞窟 - 南</name>
+  </location>
+  <location>
+    <id>1001</id>
+    <name>岸辺の洞窟 - 南</name>
+  </location>
+  <location>
+    <id>1002</id>
+    <name>岸辺の洞窟 - 南</name>
+  </location>
+  <location>
+    <id>1003</id>
+    <name>岸辺の洞窟 - 南</name>
+  </location>
+  <location>
+    <id>1004</id>
+    <name>岸辺の洞窟 - 南</name>
+  </location>
+  <location>
+    <id>1005</id>
+    <name>岸辺の洞窟 - 南</name>
+  </location>
+  <location>
+    <id>1006</id>
+    <name>岸辺の洞窟 - 南</name>
+  </location>
+  <location>
+    <id>1007</id>
+    <name>___EMPTY HOUSE with black rabbit</name>
+  </location>
+  <location>
+    <id>1008</id>
+    <name>月明りの都ミントス - 屋内</name>
+  </location>
+  <location>
+    <id>1009</id>
+    <name>月明りの都ミントス - 屋内</name>
+  </location>
+  <location>
+    <id>1010</id>
+    <name>月明りの都ミントス - 屋内</name>
+  </location>
+  <location>
+    <id>1011</id>
+    <name>月明りの都ミントス - 屋内</name>
+  </location>
+  <location>
+    <id>1012</id>
+    <name>月明りの都ミントス - 屋内</name>
+  </location>
+  <location>
+    <id>1013</id>
+    <name>月明りの都ミントス - 屋内</name>
+  </location>
+  <location>
+    <id>1014</id>
+    <name>マナの聖域 - ボス部屋</name>
+  </location>
+  <location>
+    <id>1015</id>
+    <name>岸辺の洞窟 - 北</name>
+  </location>
+  <location>
+    <id>1016</id>
+    <name>岸辺の洞窟 - 北</name>
+  </location>
+  <location>
+    <id>1017</id>
+    <name>岸辺の洞窟 - 北</name>
+  </location>
+  <location>
+    <id>1018</id>
+    <name>光の古代遺跡 - 屋外</name>
+  </location>
+  <location>
+    <id>1019</id>
+    <name>光の古代遺跡 - 屋外</name>
+  </location>
+  <location>
+    <id>1020</id>
+    <name>光の古代遺跡 - 屋外</name>
+  </location>
+  <location>
+    <id>1021</id>
+    <name>光の古代遺跡 - 屋外</name>
+  </location>
+  <location>
+    <id>1022</id>
+    <name>光の古代遺跡 - 屋外</name>
+  </location>
+  <location>
+    <id>1023</id>
+    <name>デバッグルーム 4</name>
+  </location>
+  <location>
+    <id>1024</id>
+    <name>光の古代遺跡 - 屋外</name>
+  </location>
+  <location>
+    <id>1025</id>
+    <name>光の古代遺跡 - 屋外</name>
+  </location>
+  <location>
+    <id>1026</id>
+    <name>光の古代遺跡 - 屋外</name>
+  </location>
+  <location>
+    <id>1027</id>
+    <name>光の古代遺跡 - 屋外</name>
+  </location>
+  <location>
+    <id>1028</id>
+    <name>光の古代遺跡 - 屋外</name>
+  </location>
+  <location>
+    <id>1029</id>
+    <name>光の古代遺跡 - 屋外</name>
+  </location>
+  <location>
+    <id>1030</id>
+    <name>光の古代遺跡 - 屋内</name>
+  </location>
+  <location>
+    <id>1031</id>
+    <name>光の古代遺跡 - 屋内</name>
+  </location>
+  <location>
+    <id>1032</id>
+    <name>光の古代遺跡 - 屋内</name>
+  </location>
+  <location>
+    <id>1033</id>
+    <name>光の古代遺跡 - 屋内</name>
+  </location>
+  <location>
+    <id>1034</id>
+    <name>光の古代遺跡 - 屋内</name>
+  </location>
+  <location>
+    <id>1035</id>
+    <name>岸辺の洞窟 - 南</name>
+  </location>
+  <location>
+    <id>1036</id>
+    <name>岸辺の洞窟 - 南</name>
+  </location>
+  <location>
+    <id>1037</id>
+    <name>岸辺の洞窟 - ボス部屋</name>
+  </location>
+  <location>
+    <id>1038</id>
+    <name>___BLANK</name>
+  </location>
+  <location>
+    <id>1039</id>
+    <name>___BLANK</name>
+  </location>
+  <location>
+    <id>1040</id>
+    <name>ミラージュパレス - inside</name>
+  </location>
+  <location>
+    <id>1041</id>
+    <name>ミラージュパレス - inside</name>
+  </location>
+  <location>
+    <id>1042</id>
+    <name>ミラージュパレス - inside</name>
+  </location>
+  <location>
+    <id>1043</id>
+    <name>ミラージュパレス - inside</name>
+  </location>
+  <location>
+    <id>1044</id>
+    <name>ミラージュパレス - inside</name>
+  </location>
+  <location>
+    <id>1045</id>
+    <name>ミラージュパレス - inside</name>
+  </location>
+  <location>
+    <id>1046</id>
+    <name>ミラージュパレス - inside</name>
+  </location>
+  <location>
+    <id>1047</id>
+    <name>ミラージュパレス - inside</name>
+  </location>
+  <location>
+    <id>1048</id>
+    <name>ミラージュパレス - inside</name>
+  </location>
+  <location>
+    <id>1049</id>
+    <name>ミラージュパレス - inside</name>
+  </location>
+  <location>
+    <id>1050</id>
+    <name>ミラージュパレス - inside</name>
+  </location>
+  <location>
+    <id>1051</id>
+    <name>ミラージュパレス - inside</name>
+  </location>
+  <location>
+    <id>1052</id>
+    <name>ミラージュパレス - inside</name>
+  </location>
+  <location>
+    <id>1053</id>
+    <name>ミラージュパレス - inside</name>
+  </location>
+  <location>
+    <id>1054</id>
+    <name>ミラージュパレス - inside</name>
+  </location>
+  <location>
+    <id>1055</id>
+    <name>ミラージュパレス - inside</name>
+  </location>
+  <location>
+    <id>1056</id>
+    <name>___洞窟 ボス部屋</name>
+  </location>
+  <location>
+    <id>1057</id>
+    <name>ミラージュパレス - inside</name>
+  </location>
+  <location>
+    <id>1058</id>
+    <name>ミラージュパレス - inside</name>
+  </location>
+  <location>
+    <id>1059</id>
+    <name>ドラゴンズホール</name>
+  </location>
+  <location>
+    <id>1060</id>
+    <name>ドラゴンズホール</name>
+  </location>
+  <location>
+    <id>1061</id>
+    <name>ドラゴンズホール</name>
+  </location>
+  <location>
+    <id>1062</id>
+    <name>ドラゴンズホール</name>
+  </location>
+  <location>
+    <id>1063</id>
+    <name>ドラゴンズホール</name>
+  </location>
+  <location>
+    <id>1064</id>
+    <name>ドラゴンズホール</name>
+  </location>
+  <location>
+    <id>1065</id>
+    <name>ドラゴンズホール</name>
+  </location>
+  <location>
+    <id>1066</id>
+    <name>ドラゴンズホール</name>
+  </location>
+  <location>
+    <id>1067</id>
+    <name>ドラゴンズホール</name>
+  </location>
+  <location>
+    <id>1068</id>
+    <name>ドラゴンズホール</name>
+  </location>
+  <location>
+    <id>1069</id>
+    <name>ドラゴンズホール</name>
+  </location>
+  <location>
+    <id>1070</id>
+    <name>ドラゴンズホール</name>
+  </location>
+  <location>
+    <id>1071</id>
+    <name>ドラゴンズホール</name>
+  </location>
+  <location>
+    <id>1072</id>
+    <name>ドラゴンズホール</name>
+  </location>
+  <location>
+    <id>1073</id>
+    <name>ドラゴンズホール</name>
+  </location>
+  <location>
+    <id>1074</id>
+    <name>ドラゴンズホール</name>
+  </location>
+  <location>
+    <id>1075</id>
+    <name>ドラゴンズホール</name>
+  </location>
+  <location>
+    <id>1076</id>
+    <name>ドラゴンズホール</name>
+  </location>
+  <location>
+    <id>1077</id>
+    <name>ドラゴンズホール</name>
+  </location>
+  <location>
+    <id>1078</id>
+    <name>ドラゴンズホール</name>
+  </location>
+  <location>
+    <id>1079</id>
+    <name>ドラゴンズホール</name>
+  </location>
+  <location>
+    <id>1080</id>
+    <name>ドラゴンズホール</name>
+  </location>
+  <location>
+    <id>1081</id>
+    <name>ドラゴンズホール</name>
+  </location>
+  <location>
+    <id>1082</id>
+    <name>ドラゴンズホール</name>
+  </location>
+  <location>
+    <id>1083</id>
+    <name>ドラゴンズホール</name>
+  </location>
+  <location>
+    <id>1084</id>
+    <name>ドラゴンズホール</name>
+  </location>
+  <location>
+    <id>1085</id>
+    <name>ドラゴンズホール</name>
+  </location>
+  <location>
+    <id>1086</id>
+    <name>ドラゴンズホール</name>
+  </location>
+  <location>
+    <id>1087</id>
+    <name>ドラゴンズホール</name>
+  </location>
+  <location>
+    <id>1088</id>
+    <name>ドラゴンズホール</name>
+  </location>
+  <location>
+    <id>1089</id>
+    <name>ドラゴンズホール</name>
+  </location>
+  <location>
+    <id>1090</id>
+    <name>ドラゴンズホール</name>
+  </location>
+  <location>
+    <id>1091</id>
+    <name>ドラゴンズホール</name>
+  </location>
+  <location>
+    <id>1092</id>
+    <name>ドラゴンズホール</name>
+  </location>
+  <location>
+    <id>1093</id>
+    <name>ドラゴンズホール</name>
+  </location>
+  <location>
+    <id>1094</id>
+    <name>ドラゴンズホール</name>
+  </location>
+  <location>
+    <id>1095</id>
+    <name>ドラゴンズホール</name>
+  </location>
+  <location>
+    <id>1096</id>
+    <name>ドラゴンズホール</name>
+  </location>
+  <location>
+    <id>1097</id>
+    <name>ドラゴンズホール</name>
+  </location>
+  <location>
+    <id>1098</id>
+    <name>ドラゴンズホール</name>
+  </location>
+  <location>
+    <id>1099</id>
+    <name>零下の雪原</name>
+  </location>
+  <location>
+    <id>1100</id>
+    <name>Path to the Heavens</name>
+  </location>
+  <location>
+    <id>1101</id>
+    <name>ワンダーの森</name>
+  </location>
+  <location>
+    <id>1102</id>
+    <name>光の古代遺跡 - ボス部屋</name>
+  </location>
+  <location>
+    <id>1103</id>
+    <name>火炎の谷 - ボス部屋</name>
+  </location>
+  <location>
+    <id>1104</id>
+    <name>月読みの塔 - 空き部屋</name>
+  </location>
+  <location>
+    <id>1105</id>
+    <name>月読みの塔 - 空き部屋</name>
+  </location>
+  <location>
+    <id>1106</id>
+    <name>月読みの塔 - 空き部屋</name>
+  </location>
+  <location>
+    <id>1107</id>
+    <name>月読みの塔 - 空き部屋</name>
+  </location>
+  <location>
+    <id>1108</id>
+    <name>___UNUSED</name>
+  </location>
+  <location>
+    <id>1109</id>
+    <name>ミラージュパレス - Genova&#x27;s Room</name>
+  </location>
+  <location>
+    <id>1110</id>
+    <name>湖畔の村アストリア - 屋内</name>
+  </location>
+  <location>
+    <id>1111</id>
+    <name>ドラゴンズホール - summit</name>
+  </location>
+  <location>
+    <id>1112</id>
+    <name>光の古代遺跡 - 屋外</name>
+  </location>
+  <location>
+    <id>1113</id>
+    <name>マナの聖域</name>
+  </location>
+</locations>

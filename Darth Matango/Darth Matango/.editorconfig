@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CA2227: コレクション プロパティは読み取り専用でなければなりません
+dotnet_diagnostic.CA2227.severity = silent
